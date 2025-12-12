@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Expedição</title>
+<link rel="stylesheet" href="css/style.css"/>
+
+
+
+  <!-- Bibliotecas -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.23/jspdf.plugin.autotable.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <img src="img/est.png" alt="Logo Esquerda" class="logo-left">
+    <nav>
+        
+        
+        <a href="transp.html">🚚 Transportadoras</a>
+        
+    </nav>
+</header>
+
+  <input type="text" id="busca" placeholder="Filtrar..." oninput="filtrarTabela()">
+
+<button class="btn-azul" onClick="history.go(0)">Mostrar Tudo</button>
+<button class="btn-roxo" onclick="baixarPDF()">Baixar PDF</button>
+<button class="btn-verde" onclick="baixarExcel()">Baixar Excel</button>
+<button id="contadorTotal" class="contador-btn" disabled></button>
+<button id="contador" class="contador-btn" disabled></button>
+
+<table id="tabela"></table>
+<script src="js/autolab.js"></script>
+
+</body>
+
+</html>
