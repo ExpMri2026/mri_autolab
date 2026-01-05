@@ -1,3 +1,11 @@
+// ============================
+// VARIÁVEL GLOBAL (obrigatória)
+// ============================
+let dadosOriginais = [];
+
+// ============================
+// CARREGA CSV AO ABRIR A PÁGINA
+// ============================
 window.addEventListener("DOMContentLoaded", async function () {
     try {
         const url = "https://raw.githubusercontent.com/ExpMri2026/mri_autolab/refs/heads/main/csv/transp.csv";
@@ -13,42 +21,46 @@ window.addEventListener("DOMContentLoaded", async function () {
             return;
         }
 
-        exibirTabela(dados);
-        document.getElementById("contadorTotal").textContent = `Total Cadastrado: ${dados.length - 1}`;
+        dadosOriginais = dados;
+        exibirTabela(dadosOriginais);
+
+        document.getElementById("contadorTotal").textContent =
+            `Total Cadastrado: ${dados.length - 1}`;
+
     } catch (erro) {
         console.error("Erro:", erro);
         alert("Falha ao carregar o CSV.");
     }
 });
 
-// ----------------------------
-// Conversor simples CSV → array
-// ----------------------------
+// ============================
+// CSV → ARRAY
+// ============================
 function CSVToArray(texto) {
     return texto
         .trim()
-        .split("\n")
-        .map(linha => linha.split(";")); // ⚠️ Se usar vírgula no CSV, troque para split(",")
+        .split(/\r?\n/)
+        .map(linha => linha.split(";"));
 }
 
-// ----------------------------
-// Seu código ORIGINAL
-// ----------------------------
+// ============================
+// EXIBE TABELA
+// ============================
 function exibirTabela(dados) {
     const table = document.getElementById("tabela");
     table.innerHTML = "";
 
-    if (!dados || dados.length === 0) {
+    if (!dados || dados.length <= 1) {
+        const tr = document.createElement("tr");
         const td = document.createElement("td");
         td.textContent = "Nenhum dado encontrado.";
         td.colSpan = 5;
-        const tr = document.createElement("tr");
         tr.appendChild(td);
         table.appendChild(tr);
         return;
     }
 
-    // Cabeçalho → apenas 5 primeiras colunas
+    // Cabeçalho (5 primeiras colunas)
     const headerRow = document.createElement("tr");
     dados[0].slice(0, 5).forEach(header => {
         const th = document.createElement("th");
@@ -61,6 +73,7 @@ function exibirTabela(dados) {
     const linhas = dados.slice(1);
     linhas.forEach(linha => {
         const tr = document.createElement("tr");
+
         linha.slice(0, 5).forEach((celula, i) => {
             const td = document.createElement("td");
 
@@ -77,9 +90,33 @@ function exibirTabela(dados) {
 
             tr.appendChild(td);
         });
+
         table.appendChild(tr);
     });
 
     table.style.display = "table";
-    document.getElementById("contador").textContent = `Total de linhas: ${linhas.length}`;
+    document.getElementById("contador").textContent =
+        `Total de linhas: ${linhas.length}`;
 }
+
+// ============================
+// FILTRO — TRANSPORTADORA (2ª coluna)
+// ============================
+function filtrarTransportadora(valor) {
+    const termo = valor.toLowerCase().trim();
+
+    if (!termo) {
+        exibirTabela(dadosOriginais);
+        document.getElementById("contador").textContent =
+            `Total de linhas: ${dadosOriginais.length - 1}`;
+        return;
+    }
+
+    const filtrados = dadosOriginais.filter((linha, index) => {
+        if (index === 0) return true; // mantém cabeçalho
+        return linha[1] && linha[1].toLowerCase().includes(termo);
+    });
+
+    exibirTabela(filtrados);
+}
+
