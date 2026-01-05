@@ -23,7 +23,12 @@
     </nav>
 </header>
 
-  <input type="text" id="busca" placeholder="Filtrar..." oninput="filtrarTabela()">
+  <input
+  type="text"
+  id="busca"
+  placeholder="Filtrar por transportadora..."
+  oninput="filtrarTransportadora(this.value)"
+>
 
 <button class="btn-azul" onClick="history.go(0)">Mostrar Tudo</button>
 <button class="btn-roxo" onclick="baixarPDF()">Baixar PDF</button>
@@ -38,6 +43,7 @@
 
 
 </html>
+
 
 
 
