@@ -164,7 +164,7 @@ const todosOsDados = [
     "5814",
     "RODONAVES",
     "0",
-    "Falta NF",
+    "Ag. Coleta",
     "",
     "NÃO"
   ],
