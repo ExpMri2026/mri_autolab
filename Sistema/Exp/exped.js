@@ -42,13 +42,13 @@ const todosOsDados = [
     "9022",
     "07/01/2026",
     "PHYSICUS",
-    "",
+    "14/01/2025",
     "MRI",
     "5844",
     "RODONAVES",
     "7",
-    "Ag. Coleta",
-    "",
+    "retirado",
+    "Janeiro",
     "NÃO"
   ],
   [
