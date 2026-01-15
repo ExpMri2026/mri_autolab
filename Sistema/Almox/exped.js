@@ -75,7 +75,7 @@ const todosOsDados = [
     "12",
     "CAP001",
     "CAPACITOR CERAMICO DISCO 100NF X 50V (100KPF)",
-    "BC-02"
+    ""
   ],
   [
     "13",
@@ -99,13 +99,13 @@ const todosOsDados = [
     "16",
     "CAP005",
     "CAPACITOR ELETROLÍTICO 100UF25V",
-    "AF-01"
+    "BC-02"
   ],
   [
     "17",
     "CAP006",
     "CAPACITOR ELETROLÍTICO 470UFX25",
-    "AF-01"
+    "BC-02"
   ],
   [
     "18",
@@ -141,7 +141,7 @@ const todosOsDados = [
     "23",
     "CAP013",
     "CAPACITOR ELETROLITICO 1UFX100V",
-    "AF-01"
+    "BC-02"
   ],
   [
     "24",
@@ -159,7 +159,7 @@ const todosOsDados = [
     "26",
     "CAP016",
     "CAPACITOR TANTALO 1UFX35V",
-    "BC-02 / OBSOL - A2"
+    "BC-02"
   ],
   [
     "27",
@@ -213,7 +213,7 @@ const todosOsDados = [
     "35",
     "CAP025",
     "CAPACITOR ELETROLITICO 10NFX50V",
-    "BC-02"
+    ""
   ],
   [
     "36",
@@ -243,7 +243,7 @@ const todosOsDados = [
     "40",
     "CAP030",
     "CAPACITOR POLIESTER 100NF250V",
-    "BC-02"
+    ""
   ],
   [
     "41",
@@ -321,7 +321,7 @@ const todosOsDados = [
     "53",
     "CAP049",
     "CAPACITOR ELETROLITICO RADIAL 47UF X 16V",
-    "BC-02/ OBSOL - A2"
+    "BC-02"
   ],
   [
     "54",
@@ -333,7 +333,7 @@ const todosOsDados = [
     "55",
     "CAP055",
     "CAPACITOR POLIESTER 470NFX250V",
-    "AF-01"
+    "BC-02"
   ],
   [
     "56",
@@ -441,13 +441,13 @@ const todosOsDados = [
     "73",
     "CAP078",
     "CAPACITOR ELETROLITICO 1000UFX63V",
-    "BC-02"
+    "BC-03"
   ],
   [
     "74",
     "CAP079",
     "CAPACITOR ELETROLITICO 4,7UFX63V",
-    "BC-02"
+    "BC-03"
   ],
   [
     "75",
@@ -459,7 +459,7 @@ const todosOsDados = [
     "76",
     "CAP082",
     "CAPACITOR ELETROLITICO 1000UF25V",
-    "BC-02"
+    ""
   ],
   [
     "77",
@@ -495,25 +495,25 @@ const todosOsDados = [
     "82",
     "CAP088",
     "CAPACITOR CERAMICO DISCO 2,2NF X 50V",
-    "BC-02"
+    ""
   ],
   [
     "83",
     "CAP090",
     "CAPACITOR CERAMICO DISCO 1NF X 1KV HV",
-    "AF-01"
+    "BC-03"
   ],
   [
     "84",
     "CAP091",
     "CAPACITOR ELETROLITICO RADIAL 10UF X 400V",
-    "AF-01"
+    "BC-03"
   ],
   [
     "85",
     "CAP092",
     "CAPACITOR CERAMICO DISCO 2,2NF X 400V",
-    "AF-01"
+    "BC-03"
   ],
   [
     "86",
@@ -543,13 +543,19 @@ const todosOsDados = [
     "90",
     "CAP097",
     "CAPACITOR ELETROLITICO 2,2UFX100V",
-    "BC-02"
+    ""
   ],
   [
     "91",
     "CAP098",
     "CAPACITOR TANTALO SMD 1UF X 35 V CASE A",
     "SALA SMD"
+  ],
+  [
+    "",
+    "CAP099",
+    "CAPACITOR ELETROLITICO RADIAL 220UF X 400V",
+    "BC-03"
   ],
   [
     "92",
@@ -609,31 +615,31 @@ const todosOsDados = [
     "101",
     "CHT002",
     "CHAVE TACTIL 12X12X5MM",
-    "BE-02"
+    "BE-03"
   ],
   [
     "102",
     "CHT003",
     "CHAVE TACTIL6X6X5MM",
-    "BE-02"
+    "BE-03"
   ],
   [
     "103",
     "CHT005",
     "DIP SWITCH 8 VIAS",
-    "BE-02"
+    "BE-03"
   ],
   [
     "104",
     "CHT006",
     "REED SWITCH",
-    "BE-02"
+    "BE-03"
   ],
   [
     "105",
     "CHT007",
     "CHAVE TACTIL 6X6X7MM",
-    "BE-02"
+    "BE-03"
   ],
   [
     "106",
@@ -645,7 +651,7 @@ const todosOsDados = [
     "107",
     "CHT009",
     "CHAVE 16101MFTFE25",
-    "CF-01"
+    "BE-03"
   ],
   [
     "108",
@@ -663,7 +669,7 @@ const todosOsDados = [
     "110",
     "CHT016",
     "CHAVE TACTIL 12X12X4,3",
-    "CF-01"
+    "BE-03"
   ],
   [
     "111",
@@ -675,13 +681,13 @@ const todosOsDados = [
     "112",
     "CHT023",
     "CHAVE TACTIL 12X12X8,5",
-    "CF-01"
+    "BE-03"
   ],
   [
     "113",
     "CHT026",
     "CHAVE TACTIL 12X12X12",
-    "CF-01"
+    "BE-03"
   ],
   [
     "114",
@@ -705,19 +711,19 @@ const todosOsDados = [
     "117",
     "CHT038",
     "CHAVE VERMELHA LIGA E DESLIGA",
-    "BE-02"
+    "BE-03"
   ],
   [
     "118",
     "CHT040",
     "CHAVE PHCT103",
-    "BE-02"
+    "BE-03"
   ],
   [
     "119",
     "CHT041",
     "CHAVE MICRO SWHITCH COM ASTES",
-    "BE-02"
+    "BE-03"
   ],
   [
     "120",
@@ -729,13 +735,13 @@ const todosOsDados = [
     "121",
     "CHT047",
     "CALOTA DE METAL 12MM",
-    "BE-02"
+    "BE-03"
   ],
   [
     "122",
     "CHT048",
     "CHAVE OPTICA PHCT203 COM ABA",
-    "BE-02"
+    "BE-03"
   ],
   [
     "123",
@@ -1305,7 +1311,7 @@ const todosOsDados = [
     "217",
     "CNT034",
     "CONECTOR DB25 MACHO SOLDA FIO DBS M-25",
-    "CD-02"
+    "AG-03"
   ],
   [
     "218",
@@ -1683,7 +1689,7 @@ const todosOsDados = [
     "280",
     "CNT111",
     "CONECTOR BOX HEADER M. 180GR 2X10 IDCSC-20",
-    "CD-02"
+    "AG-03"
   ],
   [
     "281",
@@ -1797,7 +1803,7 @@ const todosOsDados = [
     "299",
     "CNT141",
     "CONECTOR DB25 FEMEA PCI 180GR",
-    "CE-02"
+    "AG-03"
   ],
   [
     "300",
@@ -2541,7 +2547,7 @@ const todosOsDados = [
     "423",
     "CNT295",
     "CONECTOR RJ45 ETHERNET PCI COM FILTRO E LED BLINDADO 90GR FEMEA (HR911105A / TFTL-01)",
-    "CE-02"
+    "AG-03"
   ],
   [
     "424",
@@ -2583,61 +2589,61 @@ const todosOsDados = [
     "430",
     "CRT001",
     "CRISTAL 32,768 KHZ",
-    "BE-02"
+    "BF-02"
   ],
   [
     "431",
     "CRT002",
     "CRISTAL 8,000 MHZ HC-49/S (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "432",
     "CRT003",
     "CRISTAL 9,8304 MHZ HC-49/S (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "433",
     "CRT004",
     "CRISTAL 4,000 MHZ HC-49/S (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "434",
     "CRT005",
     "CRISTAL 1,8432 MHZ",
-    "BE-02"
+    "BF-02"
   ],
   [
     "435",
     "CRT006",
     "CRISTAL 16,000 MHZ",
-    "BE-02"
+    "OBSOL"
   ],
   [
     "436",
     "CRT007",
     "CRISTAL 3,579545 MHZ",
-    "BE-02"
+    "BF-02"
   ],
   [
     "437",
     "CRT008",
     "CRISTAL 6,000 MHZ HC-49/S (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "438",
     "CRT010",
     "CRISTAL 20 MHZ (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "439",
     "CRT011",
     "CRISTAL 25 MHZ (ALTURA 3,5MM)",
-    "BE-02"
+    "BF-02"
   ],
   [
     "440",
@@ -2661,7 +2667,7 @@ const todosOsDados = [
     "443",
     "CXP005",
     "PE DE BORRACHA NRO 36",
-    "CE-01"
+    "BF-03"
   ],
   [
     "444",
@@ -2829,7 +2835,7 @@ const todosOsDados = [
     "471",
     "CXP092",
     "KNOB PRETO 27MM LISO",
-    "BE-02"
+    "BF-03"
   ],
   [
     "472",
@@ -2853,7 +2859,7 @@ const todosOsDados = [
     "475",
     "CXP097",
     "CAIXA TERMO HIGROMETRO DIGITAL",
-    "AB-05"
+    "BF-03"
   ],
   [
     "476",
@@ -2883,19 +2889,19 @@ const todosOsDados = [
     "480",
     "DID001",
     "DIODO 1N5408",
-    "BC-02"
+    "BD-03"
   ],
   [
     "481",
     "DID002",
     "DIODO SINAL 1N4148 0,2A 100V 4NS",
-    "BC-02"
+    "BD-03"
   ],
   [
     "482",
     "DID003",
     "DIODO 1N4007",
-    "BC-02"
+    "BD-03"
   ],
   [
     "483",
@@ -2913,7 +2919,7 @@ const todosOsDados = [
     "485",
     "DID007",
     "DIODO MR852 OU MUR460 3A 200V",
-    "CF-01"
+    "BD-03"
   ],
   [
     "486",
@@ -2925,7 +2931,7 @@ const todosOsDados = [
     "487",
     "DID011",
     "DIODO SK6A8 OU 6A10",
-    "CF-01"
+    "BD-03"
   ],
   [
     "488",
@@ -2937,7 +2943,7 @@ const todosOsDados = [
     "489",
     "DID013",
     "DIODO ZENER 1N4732 4,7V 1W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "490",
@@ -2961,13 +2967,13 @@ const todosOsDados = [
     "493",
     "DID017",
     "DIODO ZENER 1N5231 5,1V 0,5W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "494",
     "DID018",
     "DIODO ZENER 1N5242 12V 0,5W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "495",
@@ -2997,7 +3003,7 @@ const todosOsDados = [
     "499",
     "DID023",
     "DIODO ZENER 1N5230 4,7V 0,5W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "500",
@@ -3027,13 +3033,13 @@ const todosOsDados = [
     "504",
     "DID028",
     "DIODO ZENER 1N5228 3V9 0,5W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "505",
     "DID029",
     "DIODO ZENER 1N4744 15V 1W",
-    "BC-02"
+    "BD-03"
   ],
   [
     "506",
@@ -3063,25 +3069,25 @@ const todosOsDados = [
     "510",
     "DID034",
     "PONTE RETIFICADORA GBU8L",
-    "CC-02"
+    "BD-03"
   ],
   [
     "511",
     "DID035",
     "DIODO ZENER 1N5241 11V 1/2W",
-    "CF-01"
+    "BD-03"
   ],
   [
     "512",
     "DID036",
     "DIODO TVS SMBJ18CA BIPOLAR",
-    "CF-01"
+    "BD-03"
   ],
   [
     "513",
     "DID037",
     "DIODO RETIFICADOR MBR20100CTG 20A",
-    "BC-02"
+    "BD-03"
   ],
   [
     "514",
@@ -5293,7 +5299,7 @@ const todosOsDados = [
   ],
   [
     "882",
-    "FWP225-HAZ-002",
+    "FWP225-HAZ-001",
     "PLACA FW225 6 JANELAS AZUL HAND GRIP",
     "H.26"
   ],
@@ -7269,55 +7275,61 @@ const todosOsDados = [
     "1211",
     "PEF011",
     "PORCA SEXTAVADA 2,5 MM (M2,5 MA 0,45 CH5 ZB)",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1212",
     "PEF012",
     "PARAFUSO MQ CH PH 3X12 MM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1213",
     "PEF013",
     "PORCA SEXTAVADA MA 3MM-ZB (M3 MA0 5FCH5 5 ZB)",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1214",
     "PEF015",
     "PARAFUSO MQ CH PH 3X20 MM",
-    "BD-02"
+    "BE-02"
+  ],
+  [
+    "",
+    "PEF016",
+    "ABRACADEIRA T18L 200X2,5MM",
+    "BE-02"
   ],
   [
     "1215",
     "PEF017",
     "ABRACADEIRA T18",
-    "CB-01"
+    "BE-02"
   ],
   [
     "1216",
     "PEF019",
     "PARAFUSO AA PA PH 2,9X13 MM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1217",
     "PEF021",
     "PARAFUSO AA CH PH 2,9X16 MM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1218",
     "PEF022",
     "PARAFUSO MQ CH PH 2,5X16 MM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1219",
     "PEF023",
     "PARAFUSO MQ CH PH 3X8 MM RM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1220",
@@ -7329,13 +7341,13 @@ const todosOsDados = [
     "1221",
     "PEF026",
     "PARAFUSO AA PA PH 2,9X6,5 MM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1222",
     "PEF029",
     "PARAFUSO MQ CH PH 3X6 MM RM",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1223",
@@ -7395,13 +7407,13 @@ const todosOsDados = [
     "1232",
     "PEF045",
     "ARRUELA LISA M4 9X0,8MM ZINCADO BRANCO",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1233",
     "PEF046",
     "ARRUELA LISA INOX M3",
-    "BD-02"
+    "BE-02"
   ],
   [
     "1234",
@@ -7611,13 +7623,13 @@ const todosOsDados = [
     "1268",
     "PEF115",
     "ESPACADOR DE CIRCUITO IMPRESSO SERIE ECI9.4 MM (FURO 4MM",
-    "CB-01"
+    "BD-02"
   ],
   [
     "1269",
     "PEF116",
     "ABRAÇADEIRA PCLIPS",
-    "CB-01"
+    "BD-02"
   ],
   [
     "1270",
@@ -7629,7 +7641,7 @@ const todosOsDados = [
     "1271",
     "PEF121",
     "ABRACADEIRA NYLON REUTILIZAVEL PRETA 150X3,6MM",
-    "CB-01"
+    "BD-02"
   ],
   [
     "1272",
@@ -7644,10 +7656,16 @@ const todosOsDados = [
     "CC-02"
   ],
   [
+    "",
+    "PIB013",
+    "PACK 2 BATERIAS REC. LI-ION EX-POWER ICR14500 (7,4V-700 MAH) COM RABICHO 10 CM MOLEX 2 VIAS",
+    ""
+  ],
+  [
     "1274",
     "POT001",
     "POTENCIOMETRO LINEAR 10K 16MM EIXO ESTRIADO 20MM",
-    "DF-02 / OBSOL - A03"
+    "OBSOL - A03"
   ],
   [
     "1275",
@@ -8649,13 +8667,13 @@ const todosOsDados = [
     "1441",
     "RLE002",
     "RELE 12V 30A N/A (6 PINOS)",
-    "BF-02"
+    "BF-03"
   ],
   [
     "1442",
     "RLE003",
     "RELE 12V 15A",
-    "BF-02"
+    "BF-03"
   ],
   [
     "1443",
@@ -8721,6 +8739,12 @@ const todosOsDados = [
     "1453",
     "STR007",
     "TRANSISTOR TRIAC BTA 12600",
+    "BB-02"
+  ],
+  [
+    "",
+    "STR008",
+    "TRIAC BTA24600 TO220",
     "BB-02"
   ],
   [
