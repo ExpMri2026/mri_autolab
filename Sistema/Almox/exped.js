@@ -4603,4458 +4603,4446 @@ const todosOsDados = [
   ],
   [
     "767",
-    "FWCO342-HAZ-001",
-    "CONSOLE FW342 HAND GRIP AZUL GABINETE PLASTICO MAGNETICO",
-    "T.03"
-  ],
-  [
-    "768",
     "FWCO342-HAZ-001 (BRANCO)",
     "CONSOLE FW342 HAND GRIP AZUL GABINETE PLASTICO MAGNETICO",
     "PRODUÇÃO"
   ],
   [
-    "769",
+    "768",
     "FWCO344-HCZ-001",
     "CONSOLE FW344 HAND GRIP CINZA GABINETE PLASTICO MAGNETICO",
     "I.24 - VENDAS"
   ],
   [
-    "770",
+    "769",
     "FWCO345-HCZ-001",
     "CONSOLE FW345 HAND GRIP CINZA GABINETE PLASTICO MAGNETICO BLUETOOTH",
     "G.26"
   ],
   [
-    "771",
+    "770",
     "FWCO350-HCZ-001",
     "CONSOLE FW350 HAND GRIP CINZA GAB PLASTICO GERADOR GREEN",
     "G.24"
   ],
   [
-    "772",
+    "771",
     "FWCO361-HAZ-001",
     "CONSOLE FW361 HAND GRIP AZUL GABINETE PLASTICO GERADOR",
     "EXP.03"
   ],
   [
-    "773",
+    "772",
     "FWCO400-HAD-001",
     "CONSOLE FW400 HAND GRIP DISPLAY TOUCH LCD COLORIDO",
     "T.03"
   ],
   [
-    "774",
+    "773",
     "FWDV136-002",
     "RESISTENCIA BICICLETA E ELIPTICO",
     "OBSOL - A6"
   ],
   [
-    "775",
+    "774",
     "FWDVCH-001",
     "CHAVE DE SEGURANÇA",
     "G.03"
   ],
   [
-    "776",
+    "775",
     "FWDVCH-004",
     "BOTAO EMERGENCIA N/A COGUMELO VERMELHO",
     "H.10"
   ],
   [
-    "777",
+    "776",
     "FWDVCH-006-D",
     "PONTEIRA COM HAND GRIP 2 TECLAS DIREITO",
     "T.02"
   ],
   [
-    "778",
+    "777",
     "FWDVCH-006-E",
     "PONTEIRA COM HAND GRIP 2 TECLAS ESQUERDO",
     "T.02"
   ],
   [
-    "779",
+    "778",
     "FWDVCH-007",
     "BOTAO EMERGENCIA N/A RETANGULAR VERMELHO",
     "I.18"
   ],
   [
-    "780",
+    "779",
     "FWDVCH-009",
     "CHAVE SEGURANCA MECANICA",
     "I.20 - VENDAS"
   ],
   [
-    "781",
+    "780",
     "FWDVCH-010",
     "PONTEIRA COM HAND GRIP EMBORACHADA 1 TECLA",
     "I.20 - VENDAS"
   ],
   [
-    "782",
+    "781",
     "FWDVCH-011-D",
     "PLACA 2 TECLAS PARA PONTEIRA DIREITA",
     "G.08"
   ],
   [
-    "783",
+    "782",
     "FWDVCH-011-E",
     "PLACA 2 TECLAS PARA PONTEIRA ESQUERDA",
     "G.08"
   ],
   [
-    "784",
+    "783",
     "FWDVCP-001",
     "MEC054 - CHAPA PLASTICA TECLADO WEGA",
     "I.19 - VENDAS"
   ],
   [
-    "785",
+    "784",
     "FWDVCP-002",
     "MEC053  - CHAPA PLASTICA FW219 6 JANELAS GRAFICO WEGA",
     "I.19 - VENDAS"
   ],
   [
-    "786",
+    "785",
     "FWDVCP-003",
     "MEC061 - CHAPA PLASTICA FW200 5 JANELAS ROTOMOLDADO HIPER",
     "I.19 - VENDAS"
   ],
   [
-    "787",
+    "786",
     "FWDVCP-004",
     "MEC062 - CHAPA PLASTICA TECLADO FW160 20 TECLAS",
     "I.19 - VENDAS"
   ],
   [
-    "788",
+    "787",
     "FWDVCP-005",
     "MEC059 - CHAPA PLASTICA FW209 7 JANELAS GRAFICO ESTEIRA RIG",
     "I.19 - VENDAS"
   ],
   [
-    "789",
+    "788",
     "FWDVCP-006",
     "MEC060 - CHAPA PLASTICA FW209 7 JANELAS GRAFICO BIKE/EL RIG",
     "I.23"
   ],
   [
-    "790",
+    "789",
     "FWDVCP-007",
     "MEC063 -CHAPA PLASTICA FW203 6 JANELAS SIRIUS",
     "I.19 - VENDAS"
   ],
   [
-    "791",
+    "790",
     "FWDVCP-008",
     "MEC064 - CHAPA PLASTICA TECLADO SIRIUS",
     "I.19 - VENDAS"
   ],
   [
-    "792",
+    "791",
     "FWDVCP-009",
     "MEC077 - CHAPA PLASTICA FIXACAO FW500 PARA DISPLAY TOUCH 9.7POL REV2",
     "I.23"
   ],
   [
-    "793",
+    "792",
     "FWDVCP-010",
     "MEC082 - CHAPA PLASTICA FIXACAO DISPLAY TOUCH 9.7POL ESTEIRA WEGA",
     "I.19 - VENDAS"
   ],
   [
-    "794",
+    "793",
     "FWDVCP-011",
     "MEC083 - CHAPA PLASTICA FIXACAO FW222 E FW162 7 JANELAS",
     "I.19 - VENDAS"
   ],
   [
-    "795",
+    "794",
     "FWDVCP-016",
     "MEC078 - CHAPA PLÁSTICA FIXAÇÃO FIXAÇÃO DISPLAY TOUCH 9.7 POL",
     "I.23"
   ],
   [
-    "796",
+    "795",
     "FWDVCP-017",
     "MEC090 - CHAPA PLASTICA FIXACAO DISPLAY TOUCH PROCULUS 9.7 POL. ASTRO",
     "I.19 - VENDAS"
   ],
   [
-    "797",
+    "796",
     "FWDVCP-019",
     "CHAPA PLASTICA FIXACAO FW200 5 JANELAS 355 X 248,5 X 3 ASTRO - MEC092",
     "I.19 - VENDAS"
   ],
   [
-    "798",
+    "797",
     "FWDVCP-022",
     "MEC096 - CHAPA PLASTICA FIXACAO FW159 14 TECLAS BOTÃO EMERG. - BODY",
     "I.23"
   ],
   [
-    "799",
+    "798",
     "FWDVCP-025",
     "MEC100 - CHAPA PLASTICA FIXACAO FW200 5 JANELAS - BODY - ROTOMOLDADO GRANDE",
     "I.23"
   ],
   [
-    "800",
+    "799",
     "FWDVCX-001-D",
     "PONTEIRA PLASTICA DIREITA",
     "G.08"
   ],
   [
-    "801",
+    "800",
     "FWDVCX-001-E",
     "PONTEIRA PLASTICA ESQUERDA",
     "G.08"
   ],
   [
-    "802",
+    "801",
     "FWDVCX-002-D",
     "SUPORTE PLASTICO INTERNO DA PONTEIRA DIREITA",
     "G.08"
   ],
   [
-    "803",
+    "802",
     "FWDVCX-002-E",
     "SUPORTE PLASTICO INTERNO DA PONTEIRA ESQUERDA",
     "G.08"
   ],
   [
-    "804",
+    "803",
     "FWDVDCO-001",
     "DISPOSITIVO DE CONTROLE ENCODER INCREMENTAL DIGITAL",
     "I.03"
   ],
   [
-    "805",
+    "804",
     "FWDVIM-001",
     "IMA REDONDO DIAM. 17 MM/ESP. 8 MM",
     "G.25"
   ],
   [
-    "806",
+    "805",
     "FWDVIM-002",
     "IMA REDONDO NEODIMIO DIAM. 10 MM/ESP. 3 MM",
     "G.25"
   ],
   [
-    "807",
+    "806",
     "FWDVPH-001",
     "PEGA HAND GRIP 92MM",
     "T.01"
   ],
   [
-    "808",
+    "807",
     "FWDVPH-002",
     "PEGA HAND GRIP 98MM",
     "I.02"
   ],
   [
-    "809",
+    "808",
     "FWDVPH-003",
     "PEGA HAND GRIP 116MM",
     "I.07"
   ],
   [
-    "810",
+    "809",
     "FWDVPH-004",
     "PEGA HAND GRIP EMBORACHADA DIAM 36 MM COMP 200 MM",
     "I.07"
   ],
   [
-    "811",
+    "810",
     "FWDVPH-005",
     "CHAPA PARA PONTEIRA PEGA",
     "G.13"
   ],
   [
-    "812",
+    "811",
     "FWDVPIB-002",
     "SUPORTE 2 PILHAS 18650 COM RABICHO MOLEX 3 VIAS",
     "I.07"
   ],
   [
-    "813",
+    "812",
     "FWDVPOL-004",
     "MODULO BATIMENTO HAND GRIP E POLAR",
     "G.09"
   ],
   [
-    "814",
+    "813",
     "FWDVSE-003",
     "SENSOR MAGNETICO COM SUPORTE",
     "I.24 - VENDAS"
   ],
   [
-    "815",
+    "814",
     "FWDVSE-005",
     "SENSOR MAGNÉTICO 1 REED INDIVIDUAL 1,5 METROS",
     "H.09"
   ],
   [
-    "816",
+    "815",
     "FWDVSE-006",
     "SENSOR MAGNETICO PARA MONITOR MUSCULACAO ALTO/BAIXO SUPORTE DE PILHA MICRO FIT 6 VIAS",
     "H.09"
   ],
   [
-    "817",
+    "816",
     "FWDVSE-007",
     "SENSOR MAGNÉTICO 1 REED INDIVIDUAL 1,5 METROS ALOJAMENTO SERIE 2508",
     "H.09"
   ],
   [
-    "818",
+    "817",
     "FWDVSE-011",
     "SENSOR MAGNÉTICO PARA MONITOR MUSCULAÇÃO ALTO/MEIO/BAIXO",
     "H.09"
   ],
   [
-    "819",
+    "818",
     "FWDVSE-012",
     "SENSOR MAGNETICO PARA MONITOR MUSCULACAO ALTO/BAIXO 1 METRO PRETO",
     "H.09"
   ],
   [
-    "820",
+    "819",
     "FWDVSUP-001",
     "SUPORTE CELULAR",
     "I.04 / I.09 / I.14"
   ],
   [
-    "821",
+    "820",
     "FWF122-003",
     "PLACA FW122 COM 3 CONECTORES",
     "I.07"
   ],
   [
-    "822",
+    "821",
     "FWF140-005",
     "PLACA FW140 MOTOR AC DE INCLINACAO",
     "I.23"
   ],
   [
-    "823",
+    "822",
     "FWF140-007",
     "PLACA FW140 MOTOR DC BOMBA SILICONE 12V INTERNO",
     "I.08"
   ],
   [
-    "824",
-    "FWF153-003",
-    "PLACA FW153 FONTE 12V PAINEL",
-    "I.27"
-  ],
-  [
-    "825",
+    "823",
     "FWF153-005",
     "PLACA FW153 FONTE 5V ACIONAMENTO VELOCIDADE",
     "PRODUCÃO"
   ],
   [
-    "826",
+    "824",
     "FWF153-007",
     "PLACA FW153 FONTE 12V PAINEL SEM CAIXA",
     "I.02"
   ],
   [
-    "827",
+    "825",
     "FWF157-002",
     "PLACA FW157 PARA FONTE CHAVEADA",
     "I.07"
   ],
   [
-    "828",
+    "826",
     "FWF180-001",
     "PLACA FW180 FONTE 6 SAIDAS USB 5V",
     "I.02"
   ],
   [
-    "829",
+    "827",
     "FWFCHV-004",
     "FONTE 24V PARA INCLINACAO CHICOTE 35CM",
     "I.22"
   ],
   [
-    "830",
+    "828",
     "FWFO153-001",
     "FONTE FW153 ENTRADA BIVOLT SAIDA 12V 1A UNIFICADA",
     "I.13"
   ],
   [
-    "831",
+    "829",
     "FWFOBIV-12V1A-001",
     "FONTE 12 VOLTS 1A P4 POSITIVO CENTRAL",
     "I.12"
   ],
   [
-    "832",
+    "830",
     "FWFOBIV-5V1A-001",
     "FONTE BIVOLT 5V 1A CONECTOR MINI FIT JR",
     "I.08"
   ],
   [
-    "833",
+    "831",
     "FWFOBIV-6V1A-001",
     "FONTE BIVOLT 6V 1A PLUG P4 POSITIVO CENTRAL ( FNT022)",
     "I.12"
   ],
   [
-    "834",
+    "832",
     "FWFOBIV-9V1A-001",
     "FONTE BIVOLT 9V 1A PLUG P4 POSITIVO CENTRAL",
     "I.17"
   ],
   [
-    "835",
+    "833",
     "FWFOGER-201B",
     "PLACA FONTE PARA FREIO GERADOR 201B",
     "G.05 / G.10 / G.15 / G.20"
   ],
   [
-    "836",
+    "834",
     "FWFOGER-20431",
     "PLACA FONTE PARA FREIO GERADOR 20431",
     "G.05"
   ],
   [
-    "837",
+    "835",
     "FWFOGER-GREEN",
     "PLACA FONTE PARA FREIO GERADOR GREEN",
     "G.05"
   ],
   [
-    "838",
+    "836",
     "FWFOUSB-5V2A-001",
     "FONTE CARREGADOR PARA EMBUTIR ENTRADA 12V SAIDA USB DUPLA 5V 1A /2.1A",
     "I.03"
   ],
   [
-    "839",
+    "837",
     "FWFRGER-BI242",
     "FREIO GERADOR 242 MM BI-DIRECIONAL PARA ELIPTICO",
     "EXP.02"
   ],
   [
-    "840",
+    "838",
     "FWFRGER-UNI242",
     "FREIO GERADOR 242 MM UNI-DIRECIONAL PARA BICICLETA",
     "EXP.01"
   ],
   [
-    "841",
+    "839",
     "FWFRGREEN-250",
     "FREIO GREEN 250 MM PARA BICICLETA ELIPTICO",
     "G.28 / G.29"
   ],
   [
-    "842",
+    "840",
     "FWFRMAG-250",
     "FREIO MAGNETICO 250 MM PARA BICICLETA ELIPTICO",
     "EXP.02"
   ],
   [
-    "843",
+    "841",
     "FWFRMAG-327",
     "FREIO MAGNETICO 327 MM PARA BICICLETA ELIPTICO",
     "I.27 / I.28 - VENDAS"
   ],
   [
-    "844",
+    "842",
     "FWFTRA-005",
     "TRANSFORMADOR 9V COM CONECTOR MINI FIT / ALOJAMENTO 2507 2 VIAS",
     "I.23"
   ],
   [
-    "845",
+    "843",
     "FWI110-001",
     "PLACA FW110",
     "G.05"
   ],
   [
-    "846",
+    "844",
     "FWI135-001",
     "PLACA FW135-1 WEGA R9",
     "G.16"
   ],
   [
-    "847",
+    "845",
     "FWI135-002",
     "PLACA FW135-2 WEGA I9",
     "G.16"
   ],
   [
-    "848",
+    "846",
     "FWI135-004",
     "PLACA FW135-4",
     "G.21"
   ],
   [
-    "849",
+    "847",
     "FWI135-005",
     "PLACA FW135 WEGA SR9/SI9/SL9",
     "G.21"
   ],
   [
-    "850",
+    "848",
     "FWI149-002",
     "PLACA FW149 ADAPTADOR INVERSOR CFW10 COM CONECTOR MINI FIT JR 2 VIAS PARA FONTE",
     "I.08"
   ],
   [
-    "851",
+    "849",
     "FWI181-001",
     "MODULO TRANSMISSOR FW181 WIFI E BLUETOOTH",
     "I.02"
   ],
   [
-    "852",
+    "850",
     "FWI182-001",
     "INTERFACE FW182 ALIMENTACAO E BATIMENTO ADAPTADORA FW215",
     "CF-03"
   ],
   [
-    "853",
+    "851",
     "FWMTGB-001",
     "MOTOR DE TRACAO PARA FREIO MAGNETICO - MODELO B",
     "G.30"
   ],
   [
-    "854",
+    "852",
     "FWMTGB-002",
     "MOTOR DE TRACAO PARA FREIO MAGNETICO CONSOLE 344",
     "I.05 - VENDAS"
   ],
   [
-    "855",
+    "853",
     "FWMTGB-003",
     "MOTOR DE TRACAO PARA FREIO MAGNETICO - MODELO D",
     "I.20 - VENDAS"
   ],
   [
-    "856",
+    "854",
     "FWP200-HVM-005",
     "PLACA FW200 5 JANELAS HAND GRIP SEM TECLA",
     "H.17"
   ],
   [
-    "857",
+    "855",
     "FWP200-HVM-007",
     "PLACA FW200 5 JANELAS HAND GRIP SEM TECLA MOLEX 4VIAS",
     "H.01"
   ],
   [
-    "858",
+    "856",
     "FWP200-HVM-009",
     "PLACA FW200 5 JANELAS HAND GRIP COM TECLA 12X12",
     "H.01"
   ],
   [
-    "859",
+    "857",
     "FWP200-HVM-010",
     "PLACA FW200 5 JANELAS HAND GRIP SEM TECLA SEM FONTE DISP INVERTIDO",
     "H.01"
   ],
   [
-    "860",
+    "858",
     "FWP200-HVM-011",
     "PLACA FW200 5 JANELAS HAND GRIP SEM TECLA SEM FONTE",
     "H.01"
   ],
   [
-    "861",
+    "859",
     "FWP203-HVM-003",
     "PLACA FW203 6 JANELAS HAND GRIP (DISPLAY EMBAIXO)",
     "H.22"
   ],
   [
-    "862",
+    "860",
     "FWP203-HVM-004",
     "PLACA FW203 6 JANELAS HAND GRIP (DISPLAY CENTRO)",
     "H.06"
   ],
   [
-    "863",
+    "861",
     "FWP203-HVM-007",
     "PLACA FW203 5 JANELAS HAND GRIP VERMELHO",
     "H.11"
   ],
   [
-    "864",
+    "862",
     "FWP203-HVMI-005",
     "PLACA FW203 7 JANELAS HAND GRIP E INCLINACAO",
     "H.06"
   ],
   [
-    "865",
+    "863",
     "FWP203-HVMI-007",
     "PLACA FW203 7 JANELAS HAND GRIP E INCLINACAO - SEM FONTE - MVT",
     "H.06"
   ],
   [
-    "866",
+    "864",
     "FWP203-HVMI-008",
     "PLACA FW203 7 JANELAS HAND GRIP E INCLINACAO - MVT",
     "H.11"
   ],
   [
-    "867",
+    "865",
     "FWFO153-002",
     "FONTE FW153 ENTRADA BIVOLT SAIDA 12V 1A E 24V 0,1A",
     "I.22"
   ],
   [
-    "868",
+    "866",
     "FWP213-XVM-001",
     "PLACA FW213 3 JANELAS VERMELHO",
     "H.02"
   ],
   [
-    "869",
+    "867",
     "FWP215-HVM-001",
     "PLACA FW215 5 JANELAS HAND GRIP DISPLAY 1,2",
     "H.17"
   ],
   [
-    "870",
+    "868",
     "FWP217-HVM-004",
     "PLACA FW217 3 JANELAS HAND GRIP VERMELHO PEMN1-03 SEM FONTE",
     "H.07"
   ],
   [
-    "871",
+    "869",
     "FWP218-HVMI-003",
     "PLACA FW218 5 JANELAS HAND GRIP VERMELHO MEC INCLINACAO",
     "H.07"
   ],
   [
-    "872",
+    "870",
     "FWP219-HAM-002",
     "PLACA FW219 5 JANELAS HAND GRIP AMBAR SEM GRAFICO",
     "H.07"
   ],
   [
-    "873",
+    "871",
     "FWP219-HAMI-002",
     "PLACA FW219 6 JANELAS HAND GRIP AMBAR INCLINACAO 3 DIGITOS",
     "I.04 - VENDAS"
   ],
   [
-    "874",
+    "872",
     "FWP219-HVMI-001",
     "PLACA FW219 6 JANELAS HAND GRIP VERMELHO COM INCLINACAO",
     "H.07"
   ],
   [
-    "875",
+    "873",
     "FWP219-HVMI-002",
     "PLACA FW219 6 JANELAS HAND GRIP VERMELHO COM INCLINACAO 3 DIGITOS",
     "I.04 - VENDAS"
   ],
   [
-    "876",
+    "874",
     "FWP221-XCZ-001",
     "PLACA FW221 2 JANELAS DISPLAY LCD CINZA CONTADOR MUSCULACAO",
     "H.11"
   ],
   [
-    "877",
+    "875",
     "FWP222-HAZ-001",
     "PLACA FW222 5 JANELAS HAND GRIP AZUL ESCADA",
     "H.21"
   ],
   [
-    "878",
+    "876",
     "FWP222-HAZ-002",
     "PLACA FW222 5 JANELAS HAND GRIP AZUL",
     "H.21"
   ],
   [
-    "879",
+    "877",
     "FWP222-HAZ-003",
     "PLACA FW222 5 JANELAS HAND GRIP AZUL SEM GRAFICO",
     "H.26"
   ],
   [
-    "880",
+    "878",
     "FWP222-HAZI-001",
     "PLACA FW222 6 JANELAS HAND GRIP AZUL COM INCL",
     "H.16"
   ],
   [
-    "881",
+    "879",
     "FWP223-XCZ-001",
     "PLACA FW223 2 JANELAS DISPLAY",
     "H.12"
   ],
   [
-    "882",
+    "880",
     "FWP224-HAZ-001",
     "PLACA FW224 5 JANELAS AZUL HAND GRIP",
     "H.26"
   ],
   [
-    "883",
+    "881",
     "FWP225-HAZ-001",
     "PLACA FW225 6 JANELAS AZUL HAND GRIP",
     "H.26"
   ],
   [
-    "884",
+    "882",
     "FWP226-HAZ-002",
     "PLACA FW226 6 JANELAS HAND GRIP AZUL BIKE",
     "H.07"
   ],
   [
-    "885",
+    "883",
     "FWP305-XVM-001",
     "PLACA FW305 DIGITO 7 SEGMENTOS LED 5 MM VERMELHO MODELO A (S3)",
     "H.02"
   ],
   [
-    "886",
+    "884",
     "FWP305-XVM-002",
     "PLACA FW305 DIGITO 7 SEGMENTOS LED 5 MM VERMELHO MODELO B (S4)",
     "H.02"
   ],
   [
-    "887",
+    "885",
     "FWP305-XVR-001",
     "PLACA FW305 DIGITO 7 SEGMENTOS LED 5 MM VERDE MODELO C (S1)",
     "H.02"
   ],
   [
-    "888",
+    "886",
     "FWP305-XVR-002",
     "PLACA FW305 DIGITO 7 SEGMENTOS LED 5 MM VERDE MODELO D (S2)",
     "H.02"
   ],
   [
-    "889",
+    "887",
     "FWT145-14F-001",
     "TECLADO FW145 14 TECLAS 12X12X8,5 CONEC. 3 E 5 VIAS",
     "I.11"
   ],
   [
-    "890",
+    "888",
     "FWT156-14F-001",
     "TECLADO FW156 14 TECLAS 12X12X8,5 CONEC. MOLEX 9 VIAS E CONC. PENCI 4 VIAS",
     "I.21"
   ],
   [
-    "891",
+    "889",
     "FWT158-TO-001",
     "TECLADO FW158 4 TECLAS TOUCH CONECTOR PEF 6 VIAS - EL06",
     "I.01"
   ],
   [
-    "892",
+    "890",
     "FWT159-12F-001",
     "TECLADO FW159 12 TECLAS 12X12X8,5 CONEC. 9 VIAS",
     "I.16"
   ],
   [
-    "893",
+    "891",
     "FWT159-13F-002",
     "TECLADO FW159 13 TECLAS 12X12X8,5 CHIC 45 CM CONEC. 3 E 5 VIAS",
     "I.21"
   ],
   [
-    "894",
+    "892",
     "FWT159-13G-001",
     "TECLADO FW159 13 TECLAS 12X12X12 CONEC. 3 E 5 VIAS",
     "I.06"
   ],
   [
-    "895",
+    "893",
     "FWT159-14F-002",
     "TECLADO FW162 6 TECLAS 12X12X4,3 CONEC. 6VIAS 30 CM",
     "I.26"
   ],
   [
-    "896",
+    "894",
     "FWT159-14G-001",
     "TECLADO FW159 14 TECLAS 12X12X12 CONEC. 3 E 5 VIAS",
     "I.06"
   ],
   [
-    "897",
+    "895",
     "FWT159-14G-002",
     "TECLADO FW159 14 TECLAS 12X12X12 CONEC. 3 E 5 VIAS 60 CM",
     "I.06"
   ],
   [
-    "898",
+    "896",
     "FWT159-8F-002",
     "TECLADO FW159 8 TECLAS 12X12X8,5 CONEC. 6 VIAS FW217",
     "I.26"
   ],
   [
-    "899",
+    "897",
     "FWT160-14F-001",
     "TECLADO FW160 14 TECLAS 12X12X8,5 CONEC. 9 VIAS",
     "I.26"
   ],
   [
-    "900",
+    "898",
     "FWT160-14F-002",
     "TECLADO FW160 14 TECLAS 12X12X8,5 CONEC. 9 VIAS",
     "I.02"
   ],
   [
-    "901",
+    "899",
     "FWT160-18F-001",
     "TECLADO FW160 18 TECLAS 12X12X8,5 CONEC. 9 VIAS",
     "I.30 - VENDAS"
   ],
   [
-    "902",
+    "900",
     "FWT162-6H-001",
     "TECLADO FW162 6 TECLAS 12X12X4,3 CONEC. 6 VIAS - EL0212",
     "I.01"
   ],
   [
-    "903",
+    "901",
     "FWT162-6H-002",
     "TECLADO FW159 14TECLAS 12X12X8,5 CONEC. 9 VIAS",
     "I.11"
   ],
   [
-    "904",
+    "902",
     "FWT165-2F-001",
     "TECLADO FW165 2 TECLAS 12X12X8,5 CONEC. 3 VIAS MICRO FIT",
     "I.01"
   ],
   [
-    "905",
+    "903",
     "FWT165-6G-001",
     "TECLADO FW165 6 TECLAS 12X12X12 CONEC. 9 VIAS",
     "PRODUÇÃO"
   ],
   [
-    "906",
+    "904",
     "FWT178-14F-001",
     "TECLADO FW178 14 TECLAS 12X12X8,5 CONEC. MOLEX 9 VIAS E CONC. PENCI 4 VIAS",
     "I.01"
   ],
   [
-    "907",
+    "905",
     "FWT183-15F-001",
     "TECLADO FW183 15 TECLAS 12X12X8,5 CONEC. 9 VIAS MOLEX",
     "I.11"
   ],
   [
-    "908",
+    "906",
     "FWT184-14F-001",
     "TECLADO FW184 14 TECLAS 12X12X8,5 CONEC. 9 VIAS MINI MODU",
     "I.06"
   ],
   [
-    "909",
+    "907",
     "FWT185-14F-001",
     "TECLADO FW185 14 TECLAS 12X12X8,5 CONEC. 9 VIAS MINI MODU",
     "I.06"
   ],
   [
-    "910",
+    "908",
     "FWU001-002",
     "PLACA CPUGPGT WEGA I9/R9",
     "G.05"
   ],
   [
-    "911",
+    "909",
     "FWU500-HRS-002",
     "PLACA FW500 HAND GRIP RS232 CONECTOR 90 GRAUS TECLADO",
     "H.12"
   ],
   [
-    "912",
+    "910",
     "ILC000-MON-003",
     "CENTRAL ILUMINACAO LM100 - LED MONOCROMATICO - 12V-2A",
     "I.05 - VENDAS"
   ],
   [
-    "913",
+    "911",
     "ILC207-MON-002",
     "CENTRAL ILUMINACAO LM200 - LED MONOCROMATICO - 36W (12V-3A)",
     "I.15 - VENDAS"
   ],
   [
-    "914",
+    "912",
     "ILC207-RGB-003",
     "CENTRAL ILUMINACAO LM202NC - LED RGB NEGATIVO COMUM - 36W (12V-3A)",
     "I.10 - VENDAS"
   ],
   [
-    "915",
+    "913",
     "ILC207-RGB-004",
     "CENTRAL ILUMINACAO LM202PC - LED RGB POSITIVO COMUM - 36W",
     "I.30 - VENDAS"
   ],
   [
-    "916",
+    "914",
     "ILL010-001",
     "Lampada UVC 60 W - SmartLight 1060",
     "T.01"
   ],
   [
-    "917",
+    "915",
     "ILR000-AZ-002",
     "LM10 - REFLETOR AZUL 80MM 9W CORPO BRANCO",
     "I.05 - VENDAS"
   ],
   [
-    "918",
+    "916",
     "ILR000-AZ-003",
     "LM11 - REFLETOR AZUL 125MM 9W CORPO BRANCO",
     "I.10 - VENDAS"
   ],
   [
-    "919",
+    "917",
     "ILR000-AZ-006",
     "LM14 - REFLETOR AZUL 63MM 3W CORPO AZUL",
     "G.09"
   ],
   [
-    "920",
+    "918",
     "ILR000-BR-002",
     "REFLETOR BR 6W EX PL PT",
     "I.10 - VENDAS"
   ],
   [
-    "921",
+    "919",
     "ILR000-RGB-001",
     "LM20 - REFLETOR RGB 80MM 9W CORPO BRANCO",
     "I.25 - VENDAS"
   ],
   [
-    "922",
+    "920",
     "ILR000-RGB-002",
     "LM21 - REFLETOR RGB 125MM 9W CORPO BRANCO",
     "I.25 - VENDAS"
   ],
   [
-    "923",
+    "921",
     "ILR000-RGB-005",
     "LM24 - REFLETOR RGB 63MM 3W CORPO BRANCO",
     "I.10 - VENDAS"
   ],
   [
-    "924",
+    "922",
     "ILR000-RGB-006",
     "LM25 - REFLETOR RGB 130MM 9W CORPO BRANCO",
     "I.14 - VENDAS"
   ],
   [
-    "925",
+    "923",
     "ILR000-RGB-007",
     "LM26 - REFLETOR RGB 130MM 12W CORPO BRANCO",
     "G.09"
   ],
   [
-    "926",
+    "924",
     "ILR000-VD-001",
     "REFLETOR VD 6W EX PL VR",
     "I.20 - VENDAS"
   ],
   [
-    "927",
+    "925",
     "KIT-CAU104A",
     "PLACA CAU104A (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "928",
+    "926",
     "KIT-FW140E",
     "PLACA FW140 (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
-    "929",
+    "927",
     "KIT-FW153",
     "PLACA FW153 (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "930",
+    "928",
     "KIT-FW200",
     "PLACA FW200K (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
-    "931",
+    "929",
     "KIT-FW203",
     "PLACA FW203H (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "932",
+    "930",
     "KIT-FW215",
     "PLACA FW215 (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "933",
+    "931",
     "KIT-FW217-03",
     "PLACA FW217E (KIT PARA MONTAGEM SMD MEC)",
     "CF-03"
   ],
   [
-    "934",
+    "932",
     "KIT-FW219 -B",
     "KIT FW",
     "CE-03"
   ],
   [
-    "935",
+    "933",
     "KIT-FW221",
     "PLACA FW221 (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
-    "936",
+    "934",
     "KIT-FW222",
     "PLACA FW222 (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "937",
+    "935",
     "KIT-FW226",
     "PLACA FW226 (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
-    "938",
+    "936",
     "KIT-FW401B",
     "PLACA FW401 (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
-    "939",
+    "937",
     "KIT-FW500",
     "PLACA FW500 (KIT PARA MONTAGEM SMD)",
     "CF-03"
   ],
   [
-    "940",
+    "938",
     "KIT-TRD-ESP",
     "PLACA TRD-ESP (KIT PARA MONTAGEM SMD)",
     "CE-03"
   ],
   [
+    "939",
+    "KNOBYL-100",
+    "KNOBYL-100",
+    "G.14"
+  ],
+  [
+    "940",
+    "KNOBYL-100 INVERTIDO",
+    "KNOBYL-100 INVERTIDO",
+    "G.14"
+  ],
+  [
     "941",
-    "KNOBYL-100",
-    "KNOBYL-100",
-    "G.14"
-  ],
-  [
-    "942",
-    "KNOBYL-100 INVERTIDO",
-    "KNOBYL-100 INVERTIDO",
-    "G.14"
-  ],
-  [
-    "943",
     "MBA001",
     "MEMBRANA REF: MRI 023 TRD 2000",
     "OBSOL - A6"
   ],
   [
-    "944",
+    "942",
     "MBA004",
     "MEMBRANA EXPORTACAO COSTA CONVERSOR",
     "OBSOL - A6"
   ],
   [
-    "945",
+    "943",
     "MBA005",
     "MEMBRANA PFW200 PAINEL 5 JANELAS",
     "OBSOL - A5"
   ],
   [
-    "946",
+    "944",
     "MBA006",
     "MEMBRANA ADEZIVA P MALETA REF: MP80",
     "OBSOL - A6"
   ],
   [
-    "947",
+    "945",
     "MBA010",
     "MEMBRANA REF: MRI 005 TRD MILLENNIUM",
     "OBSOL - A6"
   ],
   [
-    "948",
+    "946",
     "MBA011",
     "MEMBRANA REF: MRI 006 N. DE SERIE TRD",
     "BG-03"
   ],
   [
-    "949",
+    "947",
     "MBA012",
     "MEMBRANA REF: MRI 007 SELO DE GARANTIA",
     "EXPEDIÇÃO"
   ],
   [
-    "950",
+    "948",
     "MBA014",
     "MEMBRANA REF: MRI 009 FRENTE CONVERSOR",
     "OBSOL - A6"
   ],
   [
-    "951",
+    "949",
     "MBA017",
     "MEMBRANA REF: MRI 017 TRD216",
     "OBSOL - A6"
   ],
   [
-    "952",
+    "950",
     "MBA018",
     "MEMBRANA REF: MRI 026 CLFW2CV.1",
     "OBSOL - A5"
   ],
   [
-    "953",
+    "951",
     "MBA019",
     "MEMBRANA REF: MRI 027 CLFIW2CV",
     "OBSOL - A5"
   ],
   [
-    "954",
+    "952",
     "MBA020",
     "MEMBRANA REF: MRI 028 CLFW0,75CV",
     "OBSOL - A5"
   ],
   [
-    "955",
+    "953",
     "MBA021",
     "MEMBRANA REF: MRI 036 ETIQUETA CONCENTRADOR RS485",
     "OBSOL - A6"
   ],
   [
-    "956",
+    "954",
     "MBA022",
     "MEMBRANA REF: MRI 037 ETIQUETA VINIL ADP-COD",
     "OBSOL - A6"
   ],
   [
-    "957",
+    "955",
     "MBA023",
     "MEMBRANA REF: MRI 038 ETIQUETA VINIL WF100",
     "OBSOL - A5"
   ],
   [
-    "958",
+    "956",
     "MBA024",
     "ETIQUETA REF: MRI 039 ETIQUETA COMP WF100",
     "OBSOL - A6"
   ],
   [
-    "959",
+    "957",
     "MBA027",
     "MEMBRANA 6 TECLAS PAINEL PFW207",
     "OBSOL - A5"
   ],
   [
-    "960",
+    "958",
     "MBA028",
     "MEMBRANA REF: MRI ETIQUETA VINIL CODE X",
     "OBSOL - A6"
   ],
   [
-    "961",
+    "959",
     "MBA029",
     "MEMBRANA REF: MRI 020 COSTA CONVERSOR KORTH",
     "OBSOL - A6"
   ],
   [
-    "962",
+    "960",
     "MBA030",
     "MEMBRANA REF: MRI 021 FRENTE CONVERSOR KORTH",
     "OBSOL - A6"
   ],
   [
-    "963",
+    "961",
     "MBA031",
     "MEMBRANA PFW207 PAINEL 4 JANELAS",
     "OBSOL - A5"
   ],
   [
-    "964",
+    "962",
     "MBA036",
     "MEMBRANA REF: MRI 045 WF110",
     "OBSOL - A6"
   ],
   [
-    "965",
+    "963",
     "MBA039",
     "MEMBRANA REF: MRI 050 ETIQUETA VINIL WF110 RS",
     "OBSOL - A6"
   ],
   [
-    "966",
+    "964",
     "MBA044",
     "MEMBRANA FRONTAL FW206 POLICARBONATO EQUIBOARD",
     "BG-03"
   ],
   [
-    "967",
+    "965",
     "MBA045",
     "ETIQUETA ADESIVA REF. MRI 054 ADP485",
     "OBSOL - A6"
   ],
   [
-    "968",
+    "966",
     "MBA046",
     "MEMBRANA REF: MRI 053 TECLADO ZACCARIA",
     "OBSOL - A6"
   ],
   [
-    "969",
+    "967",
     "MBA047",
     "ETIQUETA ADESIVA REF. MRI 055 IDENT. TERMINAIS",
     "OBSOL - A5"
   ],
   [
-    "970",
+    "968",
     "MBA049",
     "ETIQUETA VINIL ADESIV. CIRC. PRETO REF.MRI 060",
     "OBSOL - A5"
   ],
   [
-    "971",
+    "969",
     "MBA060",
     "BORRACHA POLIETILENO ADESIVADA 6X26 MM",
     "DA-02"
   ],
   [
-    "972",
+    "970",
     "MBA061",
     "BORRACHA POLIETILENO ADESIVADA 3X30 MM",
     "DA-02"
   ],
   [
-    "973",
+    "971",
     "MBA064",
     "MICA ISOLANTE TO220",
     "CD-01"
   ],
   [
-    "974",
+    "972",
     "MBA065",
     "ETIQUETA HENRIMAR COND GARANT/INFORM AD DESTRUTIVEL REF. MRI 065",
     "OBSOL - A5"
   ],
   [
-    "975",
+    "973",
     "MBA066",
     "TECLADO MEMBRANA FITNESSWARE 8 TECLAS PFW200 REV1",
     "OBSOL - A5"
   ],
   [
-    "976",
+    "974",
     "MBA074",
     "TECLADO MEMBRANA FWCO360 REV1",
     "BG-03"
   ],
   [
-    "977",
+    "975",
     "MBA083",
     "ETIQUETA FONTE FW153 AC 127V 220V",
     "OBSOL - A5"
   ],
   [
-    "978",
+    "976",
     "MBA085",
     "MEMBRANA FRONTAL CONVERSOR USB/RS485",
     "OBSOL - A6"
   ],
   [
-    "979",
+    "977",
     "MBA091",
     "TECLADO MEMBRANA VITALLY 14 TECLAS",
     "OBSOL - A5"
   ],
   [
-    "980",
+    "978",
     "MBA092",
     "ETIQUETA FONTE FW153 AC 127V 220V 12V 1A CX PB-107 REV1",
     "BG-03"
   ],
   [
-    "981",
+    "979",
     "MBA094",
     "MEMBRANA REF: MRI 074 ETIQUETA VINIL WF200",
     "OBSOL - A6"
   ],
   [
-    "982",
+    "980",
     "MBA097",
     "MEMBRANA FRONTAL CONSOLE FW200",
     "BG-03"
   ],
   [
-    "983",
+    "981",
     "MBA098",
     "TECLADO MEMBRANA CONSOLE FW200 12 TECLAS",
     "BG-03"
   ],
   [
-    "984",
+    "982",
     "MBA100",
     "ETIQUETA FONTE FW153 AC 127V 220V 5V 1A",
     "OBSOL - A5"
   ],
   [
-    "985",
+    "983",
     "MBA101",
     "TECLADO MEMBRANA TRD-T32EX",
     "OBSOL - A5"
   ],
   [
-    "986",
+    "984",
     "MBA103",
     "MEMBRANA FRONTAL LM201 REV1",
     "OBSOL - A5"
   ],
   [
-    "987",
+    "985",
     "MBA104",
     "MEMBRANA FRONTAL LM202-NC REV1",
     "OBSOL - A5"
   ],
   [
-    "988",
+    "986",
     "MBA105",
     "MEMBRANA FRONTAL LM202-PC REV1",
     "OBSOL - A5"
   ],
   [
-    "989",
+    "987",
     "MBA106",
     "MEMBRANA FRONTAL LM100 REV1",
     "OBSOL - A5"
   ],
   [
-    "990",
+    "988",
     "MBA108",
     "MEMBRANA FRONTAL CONSOLE FW217",
     "BG-03"
   ],
   [
-    "991",
+    "989",
     "MBA110",
     "MEMBRANA FRONTAL AVD-1000 REV1",
     "BG-03"
   ],
   [
-    "992",
+    "990",
     "MBA113",
     "MEMBRANA FRONTAL CONSOLE FW200 GENERICO REV2",
     "BG-03"
   ],
   [
-    "993",
+    "991",
     "MBA115",
     "MEMBRANA 8 TECLAS CONSOLE FW217 GENERICO REV2",
     "BG-03"
   ],
   [
-    "994",
+    "992",
     "MBA116",
     "MEMBRANA KNOB - CONTROLADOR TENSAO/ESFORCO",
     "BG-03"
   ],
   [
-    "995",
+    "993",
     "MBA117",
     "MEMBRANA FRONTAL CONSOLE FW217 GENERICO REV1",
     "BG-03"
   ],
   [
-    "996",
+    "994",
     "MBA121",
     "MEMBRANA FRONTAL CONSOLE FW223 GENERICO REV1",
     "BG-03"
   ],
   [
-    "997",
+    "995",
     "MBA122",
     "MEMBRANA FRONTAL CONSOLE FW223 LIFE FITNESS REV1",
     "I.25 - VENDAS"
   ],
   [
-    "998",
+    "996",
     "MBA123",
     "MEMBRANA FRONTAL CONSOLE FW223 SMART FIT REV1",
     "I.25 - VENDAS"
   ],
   [
-    "999",
+    "997",
     "MBA124",
     "MEMBRANA FRONTAL CONSOLE FW223 BLUE FIT REV1",
     "I.25 - VENDAS"
   ],
   [
-    "1000",
+    "998",
     "MBA125",
     "MEMBRANA FRONTAL DISPOSITIVO DE CONTROLE ENCODER INCREMENTAL DIGITAL REABILITACAO",
     "BG-03"
   ],
   [
-    "1001",
+    "999",
     "MBA126",
     "MEMBRANA FRONTAL PAINEL TECLADO FW222 INCLINACAO GENERICO REV 7",
     "OBSOL - A5"
   ],
   [
-    "1002",
+    "1000",
     "MBA127",
     "MEMBRANA FRONTAL PAINEL TECLADO FW222 GENERICO (COMPRAR REV 8)",
     "OBSOL - A5"
   ],
   [
-    "1003",
+    "1001",
     "MBA128",
     "MEMBRANA PAINEL E TECLADO FW203 FW156 7 JANELAS 320 x 234 - INCLINACAO",
     "BG-03"
   ],
   [
-    "1004",
+    "1002",
     "MBA129",
     "MEMBRANA PAINEL E TECLADO FW203 FW156 6 JANELAS 320 x 234",
     "BG-03 / OBSOL - A5"
   ],
   [
-    "1005",
+    "1003",
     "MBA131",
     "ETIQUETA INTERFACE FW175 RECEPTOR",
     "BG-03"
   ],
   [
-    "1006",
+    "1004",
     "MBA133",
     "MEMBRANA PAINEL E TECLADO FW203 FW156 6 JANELAS 299 x 213",
     "BG-03"
   ],
   [
-    "1007",
+    "1005",
     "MBA135",
     "MEMBRANA CHAPA TRASEIRA TRD T32EWC REV1",
     "BG-03"
   ],
   [
-    "1008",
+    "1006",
     "MBA136",
     "TECLADO MEMBRANA TRD-T32EWC",
     "BG-03"
   ],
   [
-    "1009",
+    "1007",
     "MBA137",
     "MEMBRANA PAINEL FW306 106X55 ESTEIRA KIDS",
     "BG-03"
   ],
   [
-    "1010",
+    "1008",
     "MCM001",
     "MODULO RECEPTOR ASK 433 MHZ RXD1",
     "CC-02"
   ],
   [
-    "1011",
+    "1009",
     "MCM003",
     "CONTROLE REMOTO PA GENNO SAW 433 MHZ - PRETO",
     "I.25 - VENDAS"
   ],
   [
-    "1012",
+    "1010",
     "MCM004",
     "CONTROLE REMOTO PA GENNO TX TECH 433MHZ - PRETO",
     "I.25 - VENDAS"
   ],
   [
-    "1013",
+    "1011",
     "MCM005",
     "MODULO SENSOR HAND GRIP SH601-MO-T (VISTA)",
     "BG-02"
   ],
   [
-    "1014",
+    "1012",
     "MCM006",
     "MODULO ANTENA POLAR 5 KHZ",
     "I.05 - VENDAS"
   ],
   [
-    "1015",
+    "1013",
     "MCM012",
     "CONTROLE REMOTO INFRAVERMELHO 5 TECLAS",
     "I.15 - VENDAS"
   ],
   [
-    "1016",
+    "1014",
     "MCM015",
     "MODULO HIBRIDO HAND GRIP E POLAR (VISTA)",
     "CC-02"
   ],
   [
-    "1017",
+    "1015",
     "MCM020",
     "MODULO PLACA DOIT ESP32 ESP-WROOM-32 WIFI BLUETOOTH",
     "CC-02"
   ],
   [
-    "1018",
+    "1016",
     "MCM021",
     "MODULO REAL TIME CLOCK - RTC - DS1307",
     "CC-02"
   ],
   [
-    "1019",
+    "1017",
     "MCM022",
     "SENSOR TILT / SENSOR DE INCLINACAO SW-520D",
     "G.09"
   ],
   [
-    "1020",
+    "1018",
     "MCM024",
     "MODULO PLACA RU101 COM LEDs MONTADOS",
     "G.04"
   ],
   [
-    "1021",
+    "1019",
     "MCM025",
     "POTENCIOMETRO ENCODER ROTATIVO SEM FIM COM 3 TERMINAIS",
     "DF-02 / OBSOL - A03"
   ],
   [
-    "1022",
+    "1020",
     "MCM027",
     "MODULO PLACA ESP32-S2-SAOLA-1R",
     "CC-02"
   ],
   [
-    "1023",
+    "1021",
     "MCM029",
     "MODULO BWT61P - BLE",
     "CC-02"
   ],
   [
-    "1024",
+    "1022",
     "MCM032",
     "MODULO ETHERNET - W5500",
     "DF-02"
   ],
   [
-    "1025",
+    "1023",
     "MCM033",
     "CONTROLE REMOTO CODE LEARN 433,92 MHZ 4 CANAIS 7X4,5X1,5",
     "G.09"
   ],
   [
-    "1026",
+    "1024",
     "MCM037",
     "SENSOR CONTROLADOR DE CARGA BATERIA ION LITHIUM 3,7V 3A 2 CELULAS - FDC-2S-2",
     "CC-02"
   ],
   [
-    "1027",
+    "1025",
     "MCM038",
     "MODULO CARREGADOR DE CELULAR SEM FIO POR INDUCAO 5V BOBINA SIMPLES QUADRADA",
     "DB-03"
   ],
   [
-    "1028",
+    "1026",
     "MCM039",
     "MODULO CARREGADOR DE CELULAR SEM FIO POR INDUCAO 12V BOBINA DUPLA QUADRADA",
     "DB-03"
   ],
   [
-    "1029",
+    "1027",
     "MCM040",
     "MODULO PLACA ESP32S2DEVKITM1N4R",
     "DB-03"
   ],
   [
-    "1030",
+    "1028",
     "MCM041",
     "MODULO PLACA ESP32S2DEVKITM1UN4R2",
     "DB-03"
   ],
   [
-    "1031",
+    "1029",
     "MCV003",
     "MICROMOTOR VIBRATORIO DC 4,8X16 MM (VIBRACALL)",
     "G.09"
   ],
   [
-    "1032",
+    "1030",
     "MEC014",
     "DISSIPADOR ALUMINIO DM812K",
     "CC-02"
   ],
   [
-    "1033",
+    "1031",
     "MEC015",
     "DISSIPADOR EM L",
     "CC-02"
   ],
   [
-    "1034",
+    "1032",
     "MEC016",
     "DISSIPADOR",
     "CC-02"
   ],
   [
-    "1035",
+    "1033",
     "MEC045",
     "CALCO PLASTICO PARA DISPLAY (55X10X2MM)",
     "LINHA"
   ],
   [
-    "1036",
+    "1034",
     "MEC046",
     "CHASSI PARA CABO ENERGIA, CHAVE E FUSIVEL",
     "AA-03"
   ],
   [
-    "1037",
+    "1035",
     "MEC048",
     "CHP004 CHAPA CONSOLE FW360",
     "AB-02"
   ],
   [
-    "1038",
+    "1036",
     "MEC049",
     "ANEL ORING 2048",
     "OBSOL - A3"
   ],
   [
-    "1039",
+    "1037",
     "MEC056",
     "CHP003 CHAPA FW200 5 RASGOS ROTOMOLDADO REV2",
     "AB-02"
   ],
   [
-    "1040",
+    "1038",
     "MEC065",
     "CHAPA ACO PARA PLACA FW161",
     "AB-02"
   ],
   [
-    "1041",
+    "1039",
     "MEC068",
     "CHP015 CHAPA FW200 5 RASGOS X3",
     "AB-02"
   ],
   [
-    "1042",
+    "1040",
     "MEC069",
     "BUCHA DA ALETA 8921",
     "OBSOL - A3"
   ],
   [
-    "1043",
+    "1041",
     "MEC070",
     "PINO FIXACAO PAINEL 9455",
     "OBSOL - A3"
   ],
   [
-    "1044",
+    "1042",
     "MEC071",
     "IMA REDONDO 22X10 MM",
     "G.25"
   ],
   [
-    "1045",
+    "1043",
     "MEC072",
     "CHP016 CHAPA FW217 3 RASGOS ROTOMOLDADO",
     "AC-02"
   ],
   [
-    "1046",
+    "1044",
     "MEC073",
     "CHP017 CHAPA FW203 7 RASGOS ROTOMOLDADO",
     "AC-02"
   ],
   [
-    "1047",
+    "1045",
     "MEC075",
     "IMA 22X17X10 MM",
     "G.25"
   ],
   [
-    "1048",
+    "1046",
     "MEC077",
     "CHP020 CHAPA DISPLAY TOUCH 9,7POL REV2",
     "AE-02"
   ],
   [
-    "1049",
+    "1047",
     "MEC078",
     "CHP019 CHAPA PAINEL DISPLAY TOUCH 9,7POL",
     "AD-02"
   ],
   [
-    "1050",
+    "1048",
     "MEC079",
     "CALCO NYLON 17mm Diametro x 22mm Comprimento",
     "CC-02"
   ],
   [
-    "1051",
+    "1049",
     "MEC080",
     "IMA REDONDO 17X8 MM COM SUPORTE",
     "G.25"
   ],
   [
-    "1052",
+    "1050",
     "MEC085",
     "CHP024 CHAPA FW203 E FW156 7 RASGOS 320 x 233 x 3 REV6",
     "AC-02"
   ],
   [
-    "1053",
+    "1051",
     "MEC086",
     "TUCHO NYLON 8 X 10,5mm (D X C)",
     "CC-02"
   ],
   [
-    "1054",
+    "1052",
     "MEC087",
     "CHP025 CHAPA FW140 E FW153190 x 130 x 3 REV2",
     "AC-02"
   ],
   [
-    "1055",
+    "1053",
     "MEC088",
     "CHP026 CHAPA FW203 E FW156 7 RASGOS 299 x 213 x 3 REV2",
     "AD-02"
   ],
   [
-    "1056",
+    "1054",
     "MEC091",
     "CHP028 CHAPA PAINEL FW222 7 RASGOS 355 X 248,5 X 3 REV3",
     "AD-02"
   ],
   [
-    "1057",
+    "1055",
     "MEC096",
     "CHP032 CHAPA TECLADO FW159 14 TECLAS BOTÃO EMERGENCIA 405X140X3",
     "AE-02"
   ],
   [
-    "1058",
+    "1056",
     "MEC098",
     "CHP034 CHAPA PAINEL FW203 7 RASGOS E TECLADO FW178 - BOTAO DE EMERGENCIA 684X186X3 REV6",
     "AC-02"
   ],
   [
-    "1059",
+    "1057",
     "MEC099",
     "TUCHO NYLON 6 X 19mm (D X C)",
     "CC-02"
   ],
   [
-    "1060",
+    "1058",
     "MEC101",
     "CHP036 CHAPA PAINEL FW200 5 RASGOS - 420X160X3 ASTRO FITNESS REV3",
     "AE-02"
   ],
   [
-    "1061",
+    "1059",
     "MEC102",
     "TUCHO PLASTICO 8 X 30mm (D X C)",
     "CC-02"
   ],
   [
-    "1062",
+    "1060",
     "MEC107",
     "CHP041 CHAPA TECLADO FW159 14 TECLAS ASTRO FITNESS",
     "AE-02"
   ],
   [
-    "1063",
+    "1061",
     "MPA001",
     "ALCOOL ISOPROPILICO",
     "DF-03"
   ],
   [
-    "1064",
+    "1062",
     "MPA003",
     "SOLDA 63X37 CS VERGAS 18X8X400 MM",
     "DD-03"
   ],
   [
-    "1065",
+    "1063",
     "MPA004",
     "SOLDA 63X37 FIO 0,8MM RESINOSO",
     "DD-03"
   ],
   [
-    "1066",
+    "1064",
     "MPA005",
     "CLEANER SOFT",
     "DF-03"
   ],
   [
-    "1067",
+    "1065",
     "MPA007",
     "SOLDA 63X37 FIO 0,5MM RESINOSO",
     "DD-03"
   ],
   [
-    "1068",
+    "1066",
     "MPA024",
     "PONTA CONICA DE ESTAÇÃO DE SOLDA 0,4MM",
     "DE-03"
   ],
   [
-    "1069",
+    "1067",
     "MPA025",
     "PONTA CONICA DE ESTAÇÃO DE SOLDA 1,0 MM",
     "DE-03"
   ],
   [
-    "1070",
+    "1068",
     "MPA028",
     "FITA CREPE",
     "DD-03"
   ],
   [
-    "1071",
+    "1069",
     "MPA031",
     "ARAME EXTRUSADO",
     "DD-03"
   ],
   [
-    "1072",
+    "1070",
     "MPA032",
     "MALHA DESSOLDADORA",
     "DE-03"
   ],
   [
-    "1073",
+    "1071",
     "PARAFUSO 3,5X19 MM",
     "PARAFUSO AA PA PH 3,5X19 MM",
     "OBSOL - TETO"
   ],
   [
-    "1074",
+    "1072",
     "PCI 399",
     "PCI PLACA FW183",
     "AF-03"
   ],
   [
-    "1075",
+    "1073",
     "PCI005",
     "PCI PLACA CPUGPGTA",
     "AG-03"
   ],
   [
-    "1076",
+    "1074",
     "PCI007",
     "PCI PLACA FW114B",
     "AG-03"
   ],
   [
-    "1077",
+    "1075",
     "PCI008",
     "PCI PLACA FW123A",
     "AG-03"
   ],
   [
-    "1078",
+    "1076",
     "PCI010",
     "PCI PLACA FW210",
     "AG-03"
   ],
   [
-    "1079",
+    "1077",
     "PCI011",
     "PCI PLACA CPUEST1D",
     "AG-03"
   ],
   [
-    "1080",
+    "1078",
     "PCI021",
     "PCI PLACA ALD08",
     "AG-03"
   ],
   [
-    "1081",
+    "1079",
     "PCI022",
     "PCI PLACA APDGP32C8 A",
     "AG-03"
   ],
   [
-    "1082",
+    "1080",
     "PCI028",
     "PCI PLACA COZA1B",
     "AG-03"
   ],
   [
-    "1083",
+    "1081",
     "PCI033",
     "PCI PLACA F5V12V",
     "AG-03"
   ],
   [
-    "1084",
+    "1082",
     "PCI038",
     "PCI PLACA FW110C",
     "AG-03"
   ],
   [
-    "1085",
+    "1083",
     "PCI045",
     "PCI PLACA FW129",
     "AG-03"
   ],
   [
-    "1086",
+    "1084",
     "PCI046",
     "PCI PLACA FW130",
     "AG-03"
   ],
   [
-    "1087",
+    "1085",
     "PCI048",
     "PCI PLACA FW133A",
     "AG-03"
   ],
   [
-    "1088",
+    "1086",
     "PCI054",
     "PCI PLACA FW208",
     "AG-03"
   ],
   [
-    "1089",
+    "1087",
     "PCI067",
     "PCI PLACA MP80A",
     "AG-03"
   ],
   [
-    "1090",
+    "1088",
     "PCI074",
     "PCI PLACA RS485A",
     "AC-04"
   ],
   [
-    "1091",
+    "1089",
     "PCI075",
     "PCI PLACA RT100A",
     "AG-03"
   ],
   [
-    "1092",
+    "1090",
     "PCI076",
     "PCI PLACA RT200A",
     "AG-03"
   ],
   [
-    "1093",
+    "1091",
     "PCI079",
     "PCI PLACA FW213",
     "AG-03"
   ],
   [
-    "1094",
+    "1092",
     "PCI080",
     "PCI PLACA BMT 100C1",
     "AG-03"
   ],
   [
-    "1095",
+    "1093",
     "PCI081",
     "PCI PLACA BMT 100E R1",
     "AG-03"
   ],
   [
-    "1096",
+    "1094",
     "PCI082",
     "PCI PLACA BMT 100R",
     "AG-03"
   ],
   [
-    "1097",
+    "1095",
     "PCI083",
     "PCI PLACA BMT 100T",
     "AG-03"
   ],
   [
-    "1098",
+    "1096",
     "PCI084",
     "PCI PLACA BMT 100F",
     "AG-03"
   ],
   [
-    "1099",
+    "1097",
     "PCI088",
     "PCI PLACA FW212",
     "AG-03"
   ],
   [
-    "1100",
+    "1098",
     "PCI102",
     "PCI PLACA FW211A",
     "AG-03"
   ],
   [
-    "1101",
+    "1099",
     "PCI120",
     "PCI PLACA FW138",
     "AG-03"
   ],
   [
-    "1102",
+    "1100",
     "PCI146",
     "PCI PLACA BMT 100C2",
     "AG-03"
   ],
   [
-    "1103",
+    "1101",
     "PCI148",
     "PCI PLACA CFB01D",
     "AG-03"
   ],
   [
-    "1104",
+    "1102",
     "PCI149",
     "PCI PLACA FW116D",
     "AG-03"
   ],
   [
-    "1105",
+    "1103",
     "PCI153",
     "PCI PLACA EL1007",
     "AG-03"
   ],
   [
-    "1106",
+    "1104",
     "PCI154",
     "PCI PLACA EL1011",
     "AG-03"
   ],
   [
-    "1107",
+    "1105",
     "PCI155",
     "PCI PLACA EL1013",
     "AG-03"
   ],
   [
-    "1108",
+    "1106",
     "PCI164",
     "PCI PLACA RP200A",
     "AG-03"
   ],
   [
-    "1109",
+    "1107",
     "PCI167",
     "PCI PLACA FW146",
     "AG-03"
   ],
   [
-    "1110",
+    "1108",
     "PCI174",
     "PCI PLACA FW147 CONEXAO USB TABLET",
     "AG-03"
   ],
   [
-    "1111",
+    "1109",
     "PCI175",
     "PCI PLACA CFB05",
     "AG-03"
   ],
   [
-    "1112",
+    "1110",
     "PCI178",
     "PCI PLACA CFB04D",
     "AC-04"
   ],
   [
-    "1113",
+    "1111",
     "PCI179",
     "PCI PLACA RP201 (FIBRA DUPLA FACE 85)",
     "AG-03"
   ],
   [
-    "1114",
+    "1112",
     "PCI180",
     "PCI PLACA RP201A (FIBRA DUPLA FACE 87)",
     "AG-03"
   ],
   [
-    "1115",
+    "1113",
     "PCI182",
     "PCI PLACA RP202 (FIBRA DUPLA FACE 87)",
     "AG-03"
   ],
   [
-    "1116",
+    "1114",
     "PCI186",
     "PCI PLACA FW145A",
     "AD-03"
   ],
   [
-    "1117",
+    "1115",
     "PCI197",
     "PCI PLACA RP204A",
     "AG-03"
   ],
   [
-    "1118",
+    "1116",
     "PCI198",
     "PCI PLACA FW149",
     "AC-03"
   ],
   [
-    "1119",
+    "1117",
     "PCI201",
     "PCI PLACA MBZ-PT",
     "AG-03"
   ],
   [
-    "1120",
+    "1118",
     "PCI204",
     "PCI PLACA RP206",
     "AG-03"
   ],
   [
-    "1121",
+    "1119",
     "PCI206",
     "PCI PLACA FW150",
     "AG-03"
   ],
   [
-    "1122",
+    "1120",
     "PCI207",
     "PCI PLACA FW151",
     "AG-03"
   ],
   [
-    "1123",
+    "1121",
     "PCI208",
     "PCI PLACA FW152A",
     "AG-03"
   ],
   [
-    "1124",
+    "1122",
     "PCI209",
     "PCI PLACA LPFCO01",
     "AC-04"
   ],
   [
-    "1125",
+    "1123",
     "PCI211",
     "PCI PLACA DSCON01",
     "AC-04"
   ],
   [
-    "1126",
+    "1124",
     "PCI213",
     "PCI PLACA RP207A",
     "AB-03 / AG-03"
   ],
   [
-    "1127",
+    "1125",
     "PCI214",
     "PCI PLACA RP208",
     "AG-03"
   ],
   [
-    "1128",
+    "1126",
     "PCI215",
     "PCI PLACA FW216",
     "AG-03"
   ],
   [
-    "1129",
+    "1127",
     "PCI217",
     "PCI PLACA 8LEDA",
     "AD-04"
   ],
   [
-    "1130",
+    "1128",
     "PCI220",
     "PCI PLACA FW217A",
     "AG-03"
   ],
   [
-    "1131",
+    "1129",
     "PCI224",
     "PCI PLACA TRD2F",
     "OBSOL - A1"
   ],
   [
-    "1132",
+    "1130",
     "PCI227",
     "PCI PLACA CEC100A (COMPRAR VERSAO B)",
     "AG-03"
   ],
   [
-    "1133",
+    "1131",
     "PCI228",
     "PCI PLACA FW218C",
     "AE-04"
   ],
   [
-    "1134",
+    "1132",
     "PCI229",
     "PCI PLACA FW155",
     "AC-03"
   ],
   [
-    "1135",
+    "1133",
     "PCI233",
     "PCI PLACA WF100C",
     "AC-04 / OBSOL A1"
   ],
   [
-    "1136",
+    "1134",
     "PCI234",
     "PCI PLACA RP112",
     "AG-03"
   ],
   [
-    "1137",
+    "1135",
     "PCI235",
     "PCI PLACA RP113",
     "AG-03"
   ],
   [
-    "1138",
+    "1136",
     "PCI240",
     "PCI PLACA FW158",
     "AG-03"
   ],
   [
-    "1139",
+    "1137",
     "PCI241",
     "PCI PLACA GOZ01",
     "AG-03"
   ],
   [
-    "1140",
+    "1138",
     "PCI242",
     "PCI PLACA FW156E",
     "AE-03"
   ],
   [
-    "1141",
+    "1139",
     "PCI243",
     "PCI PLACA RP114",
     "AG-03"
   ],
   [
-    "1142",
+    "1140",
     "PCI244",
     "PCI PLACA RP115",
     "AG-03"
   ],
   [
-    "1143",
+    "1141",
     "PCI245",
     "PCI PLACA FW135B",
     "AF-04"
   ],
   [
-    "1144",
+    "1142",
     "PCI250",
     "PCI PLACA ADPWF100",
     "AC-04 / OBSOL A1"
   ],
   [
-    "1145",
+    "1143",
     "PCI251",
     "PCI PLACA FW159",
     "AD-03"
   ],
   [
-    "1146",
+    "1144",
     "PCI253",
     "PCI PLACA ADP-ATRD",
     "AC-03 / OBSOL A1"
   ],
   [
-    "1147",
+    "1145",
     "PCI257",
     "PCI PLACA LPCPU02",
     "AG-03"
   ],
   [
-    "1148",
+    "1146",
     "PCI258",
     "PCI PLACA LPTEC01",
     "AG-03"
   ],
   [
-    "1149",
+    "1147",
     "PCI260",
     "PCI PLACA ADPFW217A",
     "AG-03"
   ],
   [
-    "1150",
+    "1148",
     "PCI262",
     "PCI PLACA FW163",
     "AE-03"
   ],
   [
-    "1151",
+    "1149",
     "PCI264",
     "PCI PLACA FW165",
     "AE-03"
   ],
   [
-    "1152",
+    "1150",
     "PCI266",
     "PCI PLACA FW161",
     "AC-03"
   ],
   [
-    "1153",
+    "1151",
     "PCI267",
     "PCI PLACA LPCPU03",
     "AG-03"
   ],
   [
-    "1154",
+    "1152",
     "PCI271",
     "PCI PLACA FW162A",
     "AD-04"
   ],
   [
-    "1155",
+    "1153",
     "PCI274",
     "PCI PLACA FW166-E",
     "AE-03"
   ],
   [
-    "1156",
+    "1154",
     "PCI277",
     "PCI PLACA FW168",
     "AE-03"
   ],
   [
-    "1157",
+    "1155",
     "PCI278",
     "PCI PLACA TRD-K64E",
     "OBSOL - A1"
   ],
   [
-    "1158",
+    "1156",
     "PCI279",
     "PCI PLACA FW122F",
     "AF-04"
   ],
   [
-    "1159",
+    "1157",
     "PCI280",
     "PCI PLACA FW157B",
     "AC-03"
   ],
   [
-    "1160",
+    "1158",
     "PCI283",
     "PCI PLACA FW221",
     "AD-04"
   ],
   [
-    "1161",
+    "1159",
     "PCI285",
     "PCI PLACA FW171",
     "AC-03"
   ],
   [
-    "1162",
+    "1160",
     "PCI288",
     "PCI PLACA FW172A",
     "AF-03"
   ],
   [
-    "1163",
+    "1161",
     "PCI294",
     "PCI PLACA FW500E",
     "AC-03"
   ],
   [
-    "1164",
+    "1162",
     "PCI296",
     "PCI PLACA AVD100C",
     "AC-04"
   ],
   [
-    "1165",
+    "1163",
     "PCI297",
     "PCI PLACA IUSB-TRD",
     "OBSOL - A1"
   ],
   [
-    "1166",
+    "1164",
     "PCI298",
     "PCI PLACA RU100",
     "G.04"
   ],
   [
-    "1167",
+    "1165",
     "PCI299",
     "PCI PLACA CAU102",
     "AC-04"
   ],
   [
-    "1168",
+    "1166",
     "PCI300",
     "PCI PLACA LPCPU03B (COMPRAR VERSAO C)",
     "AG-03"
   ],
   [
-    "1169",
+    "1167",
     "PCI301",
     "PCI PLACA FW166-D",
     "AE-03"
   ],
   [
-    "1170",
+    "1168",
     "PCI303",
     "PCI PLACA IUSBP-TRD",
     "OBSOL - A1"
   ],
   [
-    "1171",
+    "1169",
     "PCI305",
     "PCI PLACA FW117",
     "AG-03"
   ],
   [
-    "1172",
+    "1170",
     "PCI306",
     "PCI PLACA FW223 (COMPRAR VERSAO A)",
     "AD-04"
   ],
   [
-    "1173",
+    "1171",
     "PCI310",
     "PCI PLACA FW217E",
     "AB-04"
   ],
   [
-    "1174",
+    "1172",
     "PCI311",
     "PCI PLACA FW224A",
     "AF-04"
   ],
   [
-    "1175",
+    "1173",
     "PCI312",
     "PCI PLACA FW225A",
     "AC-03"
   ],
   [
-    "1176",
+    "1174",
     "PCI313",
     "PCI PLACA FW173-D",
     "AC-03"
   ],
   [
-    "1177",
+    "1175",
     "PCI314",
     "PCI PLACA FW173-E",
     "AC-03"
   ],
   [
-    "1178",
+    "1176",
     "PCI315",
     "PCI PLACA CAU103A (COMPRAR VERSAO B)",
     "AC-04"
   ],
   [
-    "1179",
+    "1177",
     "PCI316",
     "PCI PLACA CAU104C",
     "AC-04"
   ],
   [
-    "1180",
+    "1178",
     "PCI317",
     "PCI PLACA FW305B",
     "AC-04"
   ],
   [
-    "1181",
+    "1179",
     "PCI323",
     "PCI PLACA CAU105",
     "AC-04"
   ],
   [
-    "1182",
+    "1180",
     "PCI324",
     "PCI PLACA FW203H",
     "AG-04"
   ],
   [
-    "1183",
+    "1181",
     "PCI327",
     "PCI PLACA FW219D",
     "AF-04"
   ],
   [
-    "1184",
+    "1182",
     "PCI328",
     "PCI PLACA CAU100",
     "AC-04"
   ],
   [
-    "1185",
+    "1183",
     "PCI329",
     "PCI PLACA FW134",
     "AE-04"
   ],
   [
-    "1186",
+    "1184",
     "PCI332",
     "PCI PLACA FW175 (COMPRAR VERSAO A)",
     "AC-03"
   ],
   [
-    "1187",
+    "1185",
     "PCI333",
     "PCI PLACA FW174",
     "AC-03"
   ],
   [
-    "1188",
+    "1186",
     "PCI337",
     "PCI PLACA FW306 (COMPRAR VERSAO A)",
     "AD-04"
   ],
   [
-    "1189",
+    "1187",
     "PCI338",
     "PCI PLACA IESP-TRD",
     "AB-04"
   ],
   [
-    "1190",
+    "1188",
     "PCI341",
     "PCI PLACA FW140E",
     "AF-03"
   ],
   [
-    "1191",
+    "1189",
     "PCI342",
     "PCI PLACA CAU101",
     "AC-04"
   ],
   [
-    "1192",
+    "1190",
     "PCI346",
     "PCI PLACA CAU106",
     "AC-04"
   ],
   [
-    "1193",
+    "1191",
     "PCI347",
     "PCI PLACA ETHERNET W5500",
     "AD-04"
   ],
   [
-    "1194",
+    "1192",
     "PCI349",
     "PCI PLACA CAU107",
     "AC-04"
   ],
   [
-    "1195",
+    "1193",
     "PCI352",
     "PCI PLACA FW177B",
     "AC-03"
   ],
   [
-    "1196",
+    "1194",
     "PCI353",
     "PCI PLACA FW179",
     "AC-03"
   ],
   [
-    "1197",
+    "1195",
     "PCI354",
     "PCI PLACA FW178",
     "AE-03"
   ],
   [
-    "1198",
+    "1196",
     "PCI361",
     "PCI PLACA THD100 TERMO HIGROMETRO DIGITAL",
     "AB-03"
   ],
   [
-    "1199",
+    "1197",
     "PCI362",
     "PCI PLACA FW222F (COMPRAR VERSAO G)",
     "AG-04"
   ],
   [
-    "1200",
+    "1198",
     "PCI368",
     "PCI PLACA FW153H (COMPRAR VERSAO I)",
     "AE-04"
   ],
   [
-    "1201",
+    "1199",
     "PCI370",
     "PCI PLACA FW217F",
     "AB-04"
   ],
   [
-    "1202",
+    "1200",
     "PCI371",
     "PCI PLACA FW226B",
     "AF-04"
   ],
   [
-    "1203",
+    "1201",
     "PCI373",
     "PCI PLACA FW226C",
     "AF-04"
   ],
   [
-    "1204",
+    "1202",
     "PCI374",
     "PCI PLACA FW153I",
     "AE-04"
   ],
   [
-    "1205",
+    "1203",
     "PCI376",
     "PCI PLACA FW200M",
     "AE-04"
   ],
   [
-    "1206",
+    "1204",
     "PCI379",
     "PCI PLACA FW215H",
     "AG-04"
   ],
   [
-    "1207",
+    "1205",
     "PCI387",
     "PCI PLACA TRD-ESPD",
     "AB-04"
   ],
   [
-    "1208",
+    "1206",
     "PCI395",
     "PCI PLACA FW182",
     "AD-03"
   ],
   [
-    "1209",
+    "1207",
     "PCI399",
     "PCI PLACA FW183",
     "AF-03"
   ],
   [
-    "1210",
+    "1208",
     "PCI400",
     "PCI PLACA FW184",
     "AF-03"
   ],
   [
-    "1211",
+    "1209",
     "PCI401",
     "PCI PLACA FW185",
     "AF-03"
   ],
   [
-    "1212",
+    "1210",
     "PEF011",
     "PORCA SEXTAVADA 2,5 MM (M2,5 MA 0,45 CH5 ZB)",
     "BE-02"
   ],
   [
-    "1213",
+    "1211",
     "PEF012",
     "PARAFUSO MQ CH PH 3X12 MM",
     "BE-02"
   ],
   [
-    "1214",
+    "1212",
     "PEF013",
     "PORCA SEXTAVADA MA 3MM-ZB (M3 MA0 5FCH5 5 ZB)",
     "BE-02"
   ],
   [
-    "1215",
+    "1213",
     "PEF015",
     "PARAFUSO MQ CH PH 3X20 MM",
     "BE-02"
   ],
   [
-    "1216",
+    "1214",
     "PEF016",
     "ABRACADEIRA T18L 200X2,5MM",
     "BE-02"
   ],
   [
-    "1217",
+    "1215",
     "PEF017",
     "ABRACADEIRA T18",
     "BE-02"
   ],
   [
-    "1218",
+    "1216",
     "PEF019",
     "PARAFUSO AA PA PH 2,9X13 MM",
     "BE-02"
   ],
   [
-    "1219",
+    "1217",
     "PEF021",
     "PARAFUSO AA CH PH 2,9X16 MM",
     "BE-02"
   ],
   [
-    "1220",
+    "1218",
     "PEF022",
     "PARAFUSO MQ CH PH 2,5X16 MM",
     "BE-02"
   ],
   [
-    "1221",
+    "1219",
     "PEF023",
     "PARAFUSO MQ CH PH 3X8 MM RM",
     "BE-02"
   ],
   [
-    "1222",
+    "1220",
     "PEF025",
     "PARAFUSO AA CH PH 2,9X19 MM",
     "OBSOL - A5"
   ],
   [
-    "1223",
+    "1221",
     "PEF026",
     "PARAFUSO AA PA PH 2,9X6,5 MM",
     "BE-02"
   ],
   [
-    "1224",
+    "1222",
     "PEF029",
     "PARAFUSO MQ CH PH 3X6 MM RM",
     "BE-02"
   ],
   [
-    "1225",
+    "1223",
     "PEF032",
     "PARAFUSO MQ CL PH 2X12 MM",
     "OBSOL - A5"
   ],
   [
-    "1226",
+    "1224",
     "PEF033",
     "PARAFUSO MQ CL PH 4X30 MM",
     "OBSOL - A5"
   ],
   [
-    "1227",
+    "1225",
     "PEF036",
     "PORCA (4 MM) ST M$ MA 0,70F CH7 ZC",
     "OBSOL - A5"
   ],
   [
-    "1228",
+    "1226",
     "PEF038",
     "PARAFUSO MQ CH PH 3X8 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1229",
+    "1227",
     "PEF039",
     "PARAFUSO MQ PA PH 4X12 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1230",
+    "1228",
     "PEF040",
     "PARAFUSO MQ PA PH 3X20 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1231",
+    "1229",
     "PEF041",
     "PARAFUSO MQ PA PH 3X12 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1232",
+    "1230",
     "PEF042",
     "PARAFUSO MQ CH PH 3X16 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1233",
+    "1231",
     "PEF043",
     "PARAFUSO MQ CH PH 3X12 MM INOX (MBZ-1)",
     "OBSOL - A5"
   ],
   [
-    "1234",
+    "1232",
     "PEF045",
     "ARRUELA LISA M4 9X0,8MM ZINCADO BRANCO",
     "BE-02"
   ],
   [
-    "1235",
+    "1233",
     "PEF046",
     "ARRUELA LISA INOX M3",
     "BE-02"
   ],
   [
-    "1236",
+    "1234",
     "PEF048",
     "PARAFUSO AA PA PH 2,2X6,5 MM",
     "BD-02"
   ],
   [
-    "1237",
+    "1235",
     "PEF051",
     "PORCA INOX MA04",
     "OBSOL - A5"
   ],
   [
-    "1238",
+    "1236",
     "PEF052",
     "PARAFUSO MQ CH PH 2,5X12 MM",
     "BD-02"
   ],
   [
-    "1239",
+    "1237",
     "PEF054",
     "PARAFUSO AA PA PH 2,9X9,5 MM",
     "BD-02"
   ],
   [
-    "1240",
+    "1238",
     "PEF055",
     "CORTE VARETA INOX DIAM. 1/8 X 36,5",
     "OBSOL - A5"
   ],
   [
-    "1241",
+    "1239",
     "PEF056",
     "CORTE VARETA INOX DIAM. 3/32 X 6,5",
     "OBSOL - A5"
   ],
   [
-    "1242",
+    "1240",
     "PEF057",
     "PARAFUSO TELLEP (ALLEN) CAB. CILINDRICA 4X20 MM",
     "OBSOL - A5"
   ],
   [
-    "1243",
+    "1241",
     "PEF060",
     "PARAFUSO MQ CL PH 2X8 MM",
     "OBSOL - A5"
   ],
   [
-    "1244",
+    "1242",
     "PEF070",
     "ARRUELA LISA M3 ZINCADO BRANCO",
     "BD-02"
   ],
   [
-    "1245",
+    "1243",
     "PEF080",
     "PARAFUSO MQ CH PH 3X10 MM ZINCADO PRETO (MBZ-1)",
     "BD-02"
   ],
   [
-    "1246",
+    "1244",
     "PEF081",
     "ARRUELA PRESSAO DIN 127 M3 ZNB",
     "OBSOL - A5"
   ],
   [
-    "1247",
+    "1245",
     "PEF082",
     "PARAFUSO MQ CH PH 2,5X8 MM",
     "BD-02"
   ],
   [
-    "1248",
+    "1246",
     "PEF084",
     "PARAFUSO AA PA PH 3,5X9 MM",
     "BD-02"
   ],
   [
-    "1249",
+    "1247",
     "PEF086",
     "MANGUEIRA CRISTAL DIAMETRO INTERNO 1/8\" X 2 MM DE PAREDE",
     "DB-02"
   ],
   [
-    "1250",
+    "1248",
     "PEF088",
     "COLA QUENTE (BASTAO REFIL)",
     "DD-03"
   ],
   [
-    "1251",
+    "1249",
     "PEF089",
     "SUPORTE PARA LED 5MM SP-5.8 PATOLA",
     "OBSOL - A4"
   ],
   [
-    "1252",
+    "1250",
     "PEF090",
     "SUPORTE PARA LED 5MM PRETO",
     "OBSOL - A4"
   ],
   [
-    "1253",
+    "1251",
     "PEF091",
     "PARAFUSO PLASTICO PA PH 3X8 MM",
     "BD-02"
   ],
   [
-    "1254",
+    "1252",
     "PEF092",
     "PARAFUSO MQ PA PH 3X25 MM",
     "OBSOL - A5"
   ],
   [
-    "1255",
+    "1253",
     "PEF093",
     "PARAFUSO MQ CL PH 2,5X20 MM",
     "OBSOL - A5"
   ],
   [
-    "1256",
+    "1254",
     "PEF096",
     "PORCA INOX MA03 PARLOCK (MBZ 2)",
     "OBSOL - A5"
   ],
   [
-    "1257",
+    "1255",
     "PEF097",
     "PARAFUSO AA PA PH 2,5X12MM PARA PLASTICO",
     "BD-02"
   ],
   [
-    "1258",
+    "1256",
     "PEF098",
     "PARAFUSO MQ CH PH 3X16 MM",
     "BD-02"
   ],
   [
-    "1259",
+    "1257",
     "PEF101",
     "PARAFUSO MQ CH PH 3,5X76 MM",
     "BD-02"
   ],
   [
-    "1260",
+    "1258",
     "PEF102",
     "PARAFUSO MQ PA PH 5X8 MM",
     "OBSOL - A5"
   ],
   [
-    "1261",
+    "1259",
     "PEF105",
     "PARAFUSO MQ CH PH 2,5X20 MM",
     "BD-02"
   ],
   [
-    "1262",
+    "1260",
     "PEF106",
     "PARAFUSO AUTO ATARRAXANTE CABECA CHATA PHILIPS AA ZINCADO PRETO 3.5X13",
     "BD-02"
   ],
   [
-    "1263",
+    "1261",
     "PEF107",
     "PARAFUSO AA CH PH 3,5X14 MM CHIP",
     "BD-02"
   ],
   [
-    "1264",
+    "1262",
     "PEF109",
     "PARAFUSO AA PA FS 4,2x32 MM",
     "OBSOL - A2"
   ],
   [
-    "1265",
+    "1263",
     "PEF110",
     "BUCHA PLASTICA (6MM) PARA PAREDE",
     "OBSOL - A2"
   ],
   [
-    "1266",
+    "1264",
     "PEF111",
     "PARAFUSO PLASTICO PA PH 3X6 MM",
     "BD-02"
   ],
   [
-    "1267",
+    "1265",
     "PEF112",
     "PARAFUSO AA CH PH 2,9X9,5MM",
     "BD-02"
   ],
   [
-    "1268",
+    "1266",
     "PEF113",
     "PARAFUSO PARA PLASTICO PA PH 4X12 MM",
     "BD-02"
   ],
   [
-    "1269",
+    "1267",
     "PEF114",
     "PARAFUSO MQ CH PH 4X6 MM",
     "BD-02"
   ],
   [
-    "1270",
+    "1268",
     "PEF115",
     "ESPACADOR DE CIRCUITO IMPRESSO SERIE ECI9.4 MM (FURO 4MM",
     "BD-02"
   ],
   [
-    "1271",
+    "1269",
     "PEF116",
     "ABRAÇADEIRA PCLIPS",
     "BD-02"
   ],
   [
-    "1272",
+    "1270",
     "PEF119",
     "PARAFUSO MQ CH PH M4X16 MM",
     "BD-02"
   ],
   [
-    "1273",
+    "1271",
     "PEF121",
     "ABRACADEIRA NYLON REUTILIZAVEL PRETA 150X3,6MM",
     "BD-02"
   ],
   [
-    "1274",
+    "1272",
     "PIB003",
     "SUPORTE DE DUAS PILHAS",
     "AB-01"
   ],
   [
-    "1275",
+    "1273",
     "PIB011",
     "SUPORTE 2 PILHAS 18650 3.7V PRETO COM RABICHO",
     "CC-02"
   ],
   [
-    "1276",
+    "1274",
     "PIB013",
     "PACK 2 BATERIAS REC. LI-ION EX-POWER ICR14500 (7,4V-700 MAH) COM RABICHO 10 CM MOLEX 2 VIAS",
     ""
   ],
   [
-    "1277",
+    "1275",
     "POT001",
     "POTENCIOMETRO LINEAR 10K 16MM EIXO ESTRIADO 20MM",
     "OBSOL - A03"
   ],
   [
-    "1278",
+    "1276",
     "POT002",
     "POTENCIOMETRO FIO 4W 5K",
     "OBSOL - A3"
   ],
   [
-    "1279",
+    "1277",
     "POT005",
     "POTENCIOMETRO LINEAR 470K 16MM SERIE CRC16",
     "OBSOL - A3"
   ],
   [
-    "1280",
+    "1278",
     "POT006",
     "TRIMPOT 200K REF. 3386F",
     "OBSOL - A5"
   ],
   [
-    "1281",
+    "1279",
     "POT008",
     "TRIMPOT 100K 3296W",
     "BB-02"
   ],
   [
-    "1282",
+    "1280",
     "POT009",
     "TRIMPOT 100K 3386F",
     "BB-02"
   ],
   [
-    "1283",
+    "1281",
     "POT011",
     "TRIMPOT 10K 3386F",
     "BB-02"
   ],
   [
-    "1284",
+    "1282",
     "POT012",
     "TRIMPOT 10K 3296W",
     "BB-02"
   ],
   [
-    "1285",
+    "1283",
     "POT013",
     "TRIMPOT 1M REF. 3296W",
     "BB-02"
   ],
   [
-    "1286",
+    "1284",
     "POT014",
     "TRIMPOT 1M REF. 3386F",
     "OBSOL - A5"
   ],
   [
-    "1287",
+    "1285",
     "POT015",
     "TRIMPOT 1M REF. 3006P",
     "OBSOL - A5"
   ],
   [
-    "1288",
+    "1286",
     "POT016",
     "TRIMPOT 20R REF. 3386F",
     "OBSOL - A2"
   ],
   [
-    "1289",
+    "1287",
     "POT017",
     "TRIMPOT 5K REF. 3386F 1 502",
     "OBSOL - A5"
   ],
   [
-    "1290",
+    "1288",
     "POT018",
     "TRIMPOT 20K REF. 3386F",
     "OBSOL - A5"
   ],
   [
-    "1291",
+    "1289",
     "POT019",
     "TRIMPOT 1K",
     "BB-02"
   ],
   [
-    "1292",
+    "1290",
     "QUÍMICOS",
     "QUÍMICOS DIVERSOS",
     "DF-03"
   ],
   [
-    "1293",
+    "1291",
     "RES001",
     "RESISTOR 2K2 1/2W",
     "BB-03"
   ],
   [
-    "1294",
+    "1292",
     "RES002",
     "RESISTOR CR25 120K CARBONO",
     "BB-03"
   ],
   [
-    "1295",
+    "1293",
     "RES003",
     "RESISTOR CR25 27K CARBONO",
     "BB-03"
   ],
   [
-    "1296",
+    "1294",
     "RES004",
     "RESISTOR CR25 4K7 CARBONO",
     "BB-03"
   ],
   [
-    "1297",
+    "1295",
     "RES005",
     "RESISTOR CR25 150K CARBONO",
     "BB-03"
   ],
   [
-    "1298",
+    "1296",
     "RES006",
     "RESISTOR CR25 150R CARBONO",
     "BC-03"
   ],
   [
-    "1299",
+    "1297",
     "RES007",
     "RESISTOR CR25 39K CARBONO",
     "BB-03"
   ],
   [
-    "1300",
+    "1298",
     "RES008",
     "RESISTOR CR25 5K6 CARBONO",
     "BB-03"
   ],
   [
-    "1301",
+    "1299",
     "RES009",
     "RESISTOR CR25 56K CARBONO",
     "BB-03"
   ],
   [
-    "1302",
+    "1300",
     "RES010",
     "RESISTOR CR25 12K CARBONO",
     "BB-03"
   ],
   [
-    "1303",
+    "1301",
     "RES011",
     "RESISTOR CR25 680K CARBONO",
     "BB-03"
   ],
   [
-    "1304",
+    "1302",
     "RES012",
     "RESISTOR CR25 3K3 CARBONO",
     "BB-03"
   ],
   [
-    "1305",
+    "1303",
     "RES013",
     "RESISTOR CR25 560R CARBONO",
     "BC-03"
   ],
   [
-    "1306",
+    "1304",
     "RES014",
     "RESISTOR CR12 4M7",
     "CB-02"
   ],
   [
-    "1307",
+    "1305",
     "RES015",
     "RESISTOR 15K 2W CARVAO",
     "BB-03"
   ],
   [
-    "1308",
+    "1306",
     "RES016",
     "RESISTOR 330R 5W CARVAO",
     "BC-03"
   ],
   [
-    "1309",
+    "1307",
     "RES017",
     "RESISTOR 100R 10W FIO",
     "BC-03"
   ],
   [
-    "1310",
+    "1308",
     "RES019",
     "RESISTOR 100R 5W FIO",
     "BC-03"
   ],
   [
-    "1311",
+    "1309",
     "RES020",
     "RESISTOR 10K 15W FIO",
     "BC-03"
   ],
   [
-    "1312",
+    "1310",
     "RES021",
     "RESISTOR 10R 10W FIO",
     "BC-03"
   ],
   [
-    "1313",
+    "1311",
     "RES023",
     "RESISTOR CR25 15K CARBONO",
     "BB-03"
   ],
   [
-    "1314",
+    "1312",
     "RES024",
     "RESISTOR CR25 15M CARBONO",
     "CB-02"
   ],
   [
-    "1315",
+    "1313",
     "RES025",
     "RESISTOR CR25 18K CARBONO",
     "BB-03"
   ],
   [
-    "1316",
+    "1314",
     "RES026",
     "RESISTOR CR25 1K CARBONO",
     "BB-03"
   ],
   [
-    "1317",
+    "1315",
     "RES027",
     "RESISTOR CR25 1K5 CARBONO",
     "BB-03"
   ],
   [
-    "1318",
+    "1316",
     "RES028",
     "RESISTOR CR25 1M CARBONO",
     "CB-02"
   ],
   [
-    "1319",
+    "1317",
     "RES029",
     "RESISTOR CR25 1M5 CARBONO",
     "BD-03"
   ],
   [
-    "1320",
+    "1318",
     "RES030",
     "RESISTOR CR25 220K CARBONO",
     "BB-03"
   ],
   [
-    "1321",
+    "1319",
     "RES032",
     "RESISTOR CR25 22K CARBONO",
     "BB-03"
   ],
   [
-    "1322",
+    "1320",
     "RES033",
     "RESISTOR CR25 270R CARBONO",
     "BC-03"
   ],
   [
-    "1323",
+    "1321",
     "RES034",
     "RESISTOR 2R2 1W",
     "BC-03"
   ],
   [
-    "1324",
+    "1322",
     "RES035",
     "RESISTOR 33R 1W CARVAO",
     "BC-03"
   ],
   [
-    "1325",
+    "1323",
     "RES036",
     "RESISTOR CR25 27R CARBONO",
     "BD-03"
   ],
   [
-    "1326",
+    "1324",
     "RES037",
     "RESISTOR CR25 2K7 CARBONO",
     "BB-03"
   ],
   [
-    "1327",
+    "1325",
     "RES038",
     "RESISTOR CR25 2M2 CARBONO",
     "CB-02"
   ],
   [
-    "1328",
+    "1326",
     "RES039",
     "RESISTOR 47R 1W FIO",
     "BC-03"
   ],
   [
-    "1329",
+    "1327",
     "RES040",
     "RESISTOR CR25 33K CARBONO",
     "BB-03"
   ],
   [
-    "1330",
+    "1328",
     "RES041",
     "RESISTOR CR25 33R CARBONO",
     "BD-03"
   ],
   [
-    "1331",
+    "1329",
     "RES042",
     "RESISTOR CR25 390R CARBONO",
     "BC-03"
   ],
   [
-    "1332",
+    "1330",
     "RES043",
     "RESISTOR CR25 3K6 CARBONO",
     "BB-03"
   ],
   [
-    "1333",
+    "1331",
     "RES044",
     "RESISTOR CR25 3K9 CARBONO",
     "BB-03"
   ],
   [
-    "1334",
+    "1332",
     "RES045",
     "RESISTOR CR25 470K CARBONO",
     "BB-03"
   ],
   [
-    "1335",
+    "1333",
     "RES046",
     "RESISTOR CR25 470R CARBONO",
     "BC-03"
   ],
   [
-    "1336",
+    "1334",
     "RES047",
     "RESISTOR CR25 47K CARBONO",
     "BB-03"
   ],
   [
-    "1337",
+    "1335",
     "RES048",
     "RESISTOR CR25 47R CARBONO",
     "BC-03"
   ],
   [
-    "1338",
+    "1336",
     "RES049",
     "RESISTOR CR25 51K CARBONO",
     "BB-03"
   ],
   [
-    "1339",
+    "1337",
     "RES050",
     "RESISTOR 560K 1/4W",
     "BB-03"
   ],
   [
-    "1340",
+    "1338",
     "RES051",
     "RESISTOR 10R 1W CARVAO",
     "BC-03"
   ],
   [
-    "1341",
+    "1339",
     "RES052",
     "RESISTOR CR25 68R CARBONO",
     "BC-03"
   ],
   [
-    "1342",
+    "1340",
     "RES053",
     "RESISTOR CR25 6K8 CARBONO",
     "BB-03"
   ],
   [
-    "1343",
+    "1341",
     "RES054",
     "RESISTOR CR25 6M8 CARBONO",
     "BD-03"
   ],
   [
-    "1344",
+    "1342",
     "RES055",
     "RESISTOR CR25 820K CARBONO",
     "BB-03"
   ],
   [
-    "1345",
+    "1343",
     "RES056",
     "RESISTOR CR25 820R CARBONO",
     "BC-03"
   ],
   [
-    "1346",
+    "1344",
     "RES057",
     "RESISTOR CR25 82K CARBONO",
     "BB-03"
   ],
   [
-    "1347",
+    "1345",
     "RES058",
     "RESISTOR CR25 8K2 CARBONO",
     "BB-03"
   ],
   [
-    "1348",
+    "1346",
     "RES059",
     "RESISTOR CR25 8M2 CARBONO",
     "CB-02"
   ],
   [
-    "1349",
+    "1347",
     "RES063",
     "RESISTOR SMD 0805 100K",
     "SALA SMD / BB-03"
   ],
   [
-    "1350",
+    "1348",
     "RES065",
     "RESISTOR 4R7 5W CARVAO",
     "BC-03"
   ],
   [
-    "1351",
+    "1349",
     "RES066",
     "RESISTOR CR12 100K",
     "CB-02"
   ],
   [
-    "1352",
+    "1350",
     "RES067",
     "RESISTOR CR12 10K",
     "CB-02"
   ],
   [
-    "1353",
+    "1351",
     "RES068",
     "RESISTOR CR12 10M",
     "BC-03"
   ],
   [
-    "1354",
+    "1352",
     "RES070",
     "RESISTOR CR12 1K5",
     "BC-03"
   ],
   [
-    "1355",
+    "1353",
     "RES071",
     "RESISTOR CR12 1M",
     "CB-02"
   ],
   [
-    "1356",
+    "1354",
     "RES072",
     "RESISTOR CR12 220R",
     "BC-03"
   ],
   [
-    "1357",
+    "1355",
     "RES073",
     "RESISTOR CR12 27R",
     "BC-03"
   ],
   [
-    "1358",
+    "1356",
     "RES074",
     "RESISTOR CR12 33K",
     "CB-02"
   ],
   [
-    "1359",
+    "1357",
     "RES075",
     "RESISTOR CR25 270K CARBONO",
     "BB-03"
   ],
   [
-    "1360",
+    "1358",
     "RES076",
     "RESISTOR CR12 390R",
     "CB-02"
   ],
   [
-    "1361",
+    "1359",
     "RES077",
     "RESISTOR CR12 39K",
     "BC-03"
   ],
   [
-    "1362",
+    "1360",
     "RES078",
     "RESISTOR CR12 3M3",
     "CB-02"
   ],
   [
-    "1363",
+    "1361",
     "RES079",
     "RESISTOR CR12 470K",
     "CB-02"
   ],
   [
-    "1364",
+    "1362",
     "RES080",
     "RESISTOR CR12 47K",
     "CB-02"
   ],
   [
-    "1365",
+    "1363",
     "RES081",
     "RESISTOR CR12 4K7",
     "CB-02"
   ],
   [
-    "1366",
+    "1364",
     "RES082",
     "RESISTOR CR12 56K",
     "CB-02"
   ],
   [
-    "1367",
+    "1365",
     "RES083",
     "RESISTOR CR12 75K",
     "CB-02"
   ],
   [
-    "1368",
+    "1366",
     "RES084",
     "RESISTOR CR12 82K",
     "CB-02"
   ],
   [
-    "1369",
+    "1367",
     "RES085",
     "RESISTOR CR25 100K CARBONO",
     "BB-03"
   ],
   [
-    "1370",
+    "1368",
     "RES086",
     "RESISTOR CR25 100R CARBONO",
     "BC-03"
   ],
   [
-    "1371",
+    "1369",
     "RES087",
     "RESISTOR CR25 10K CARBONO",
     "BB-03"
   ],
   [
-    "1372",
+    "1370",
     "RES088",
     "RESISTOR CR25 10M CARBONO",
     "CB-02"
   ],
   [
-    "1373",
+    "1371",
     "RES089",
     "RESISTOR CR25 10R CARBONO",
     "BD-03"
   ],
   [
-    "1374",
+    "1372",
     "RES090",
     "RESISTOR 0,56R 5W",
     "BC-03"
   ],
   [
-    "1375",
+    "1373",
     "RES092",
     "RESISTOR 68R 1W",
     "BC-03"
   ],
   [
-    "1376",
+    "1374",
     "RES093",
     "RESISTOR CR12 470R",
     "BC-03"
   ],
   [
-    "1377",
+    "1375",
     "RES094",
     "RESISTOR SMD 0805 10K",
     "SALA SMD"
   ],
   [
-    "1378",
+    "1376",
     "RES095",
     "RESISTOR CR12 22K",
     "CB-02"
   ],
   [
-    "1379",
+    "1377",
     "RES099",
     "RESISTOR CR25 2K2 CARBONO",
     "BB-03"
   ],
   [
-    "1380",
+    "1378",
     "RES100",
     "RESISTOR CR25 680R CARBONO",
     "BC-03"
   ],
   [
-    "1381",
+    "1379",
     "RES101",
     "RESISTOR CR12 3K6",
     "CB-02"
   ],
   [
-    "1382",
+    "1380",
     "RES102",
     "RESISTOR CR12 330K",
     "BC-03"
   ],
   [
-    "1383",
+    "1381",
     "RES103",
     "RESISTOR CR12 68K",
     "CB-02"
   ],
   [
-    "1384",
+    "1382",
     "RES104",
     "RESISTOR CR25 330R CARBONO",
     "BC-03"
   ],
   [
-    "1385",
+    "1383",
     "RES105",
     "RESISTOR CR25 22R CARBONO",
     "BD-03"
   ],
   [
-    "1386",
+    "1384",
     "RES106",
     "RESISTOR 0,1R 5W CARVAO",
     "BC-03"
   ],
   [
-    "1387",
+    "1385",
     "RES108",
     "RESISTOR SMD 0805 220K",
     "SALA SMD"
   ],
   [
-    "1388",
+    "1386",
     "RES109",
     "RESISTOR SMD 0805 1M",
     "SALA SMD / BC-03"
   ],
   [
-    "1389",
+    "1387",
     "RES110",
     "RESISTOR SMD 0805 330K",
     "SALA SMD"
   ],
   [
-    "1390",
+    "1388",
     "RES111",
     "RESISTOR SMD 0805 180R",
     "SALA SMD"
   ],
   [
-    "1391",
+    "1389",
     "RES112",
     "RESISTOR SMD 0805 4K7",
     "SALA SMD"
   ],
   [
-    "1392",
+    "1390",
     "RES113",
     "RESISTOR SMD 0805 390R",
     "SALA SMD"
   ],
   [
-    "1393",
+    "1391",
     "RES114",
     "RESISTOR SMD 0805 75K",
     "SALA SMD"
   ],
   [
-    "1394",
+    "1392",
     "RES115",
     "RESISTOR SMD 0805 47R",
     "SALA SMD"
   ],
   [
-    "1395",
+    "1393",
     "RES116",
     "RESISTOR SMD 0805 4M7",
     "SALA SMD"
   ],
   [
-    "1396",
+    "1394",
     "RES117",
     "RESISTOR SMD 0805 47K",
     "SALA SMD"
   ],
   [
-    "1397",
+    "1395",
     "RES118",
     "RESISTOR SMD 0805 39K",
     "SALA SMD"
   ],
   [
-    "1398",
+    "1396",
     "RES122",
     "RESISTOR CR12 1K",
     "BC-03"
   ],
   [
-    "1399",
+    "1397",
     "RES123",
     "RESISTOR 27R 1W CARVAO",
     "BC-03"
   ],
   [
-    "1400",
+    "1398",
     "RES124",
     "RESISTOR SMD 0805 470K",
     "SALA SMD"
   ],
   [
-    "1401",
+    "1399",
     "RES125",
     "RESISTOR SMD 0805 2K2",
     "SALA SMD"
   ],
   [
-    "1402",
+    "1400",
     "RES126",
     "RESISTOR SMD 0805 220R",
     "SALA SMD"
   ],
   [
-    "1403",
+    "1401",
     "RES127",
     "RESISTOR SMD 0805 3M3",
     "SALA SMD"
   ],
   [
-    "1404",
+    "1402",
     "RES129",
     "RESISTOR 47K 1W",
     "BD-03"
   ],
   [
-    "1405",
+    "1403",
     "RES130",
     "RESISTOR SMD 0805 470R",
     "SALA SMD"
   ],
   [
-    "1406",
+    "1404",
     "RES131",
     "RESISTOR 560R 1W",
     "BC-03"
   ],
   [
-    "1407",
+    "1405",
     "RES133",
     "RESISTOR 330R 5W FIO",
     "BD-03"
   ],
   [
-    "1408",
+    "1406",
     "RES134",
     "RESISTOR 270R 5W FIO",
     "BC-03"
   ],
   [
-    "1409",
+    "1407",
     "RES136",
     "RESISTOR CR25 330K CARBONO",
     "BB-03"
   ],
   [
-    "1410",
+    "1408",
     "RES137",
     "RESISTOR CR25 1K8 CARBONO",
     "BB-03"
   ],
   [
-    "1411",
+    "1409",
     "RES140",
     "RESISTOR 1% 10K MRS",
     "BD-03"
   ],
   [
-    "1412",
+    "1410",
     "RES141",
     "RESISTOR CR25 68K CARBONO",
     "BB-03"
   ],
   [
-    "1413",
+    "1411",
     "RES142",
     "RESISTOR 470R 5W FIO",
     "BC-03"
   ],
   [
-    "1414",
+    "1412",
     "RES143",
     "RESISTOR SMD 0805 270R",
     "SALA SMD"
   ],
   [
-    "1415",
+    "1413",
     "RES144",
     "RESISTOR 33K 1W CARVAO",
     "BB-03"
   ],
   [
-    "1416",
+    "1414",
     "RES145",
     "RESISTOR CR25 4M7 CARBONO",
     "CB-02"
   ],
   [
-    "1417",
+    "1415",
     "RES146",
     "RESISTOR SMD 0805 68K",
     "SALA SMD"
   ],
   [
-    "1418",
+    "1416",
     "RES147",
     "RESISTOR SMD 0805 1K",
     "SALA SMD"
   ],
   [
-    "1419",
+    "1417",
     "RES150",
     "RESISTOR SMD 0805 100R",
     "SALA SMD"
   ],
   [
-    "1420",
+    "1418",
     "RES151",
     "RESISTOR SMD 0805 10M",
     "SALA SMD"
   ],
   [
-    "1421",
+    "1419",
     "RES152",
     "RESISTOR SMD 0805 10R",
     "SALA SMD"
   ],
   [
-    "1422",
+    "1420",
     "RES153",
     "RESISTOR 18R 5W FIO",
     "BC-03"
   ],
   [
-    "1423",
+    "1421",
     "RES154",
     "RESISTOR SMD 0805 3K6",
     "SALA SMD"
   ],
   [
-    "1424",
+    "1422",
     "RES155",
     "RESISTOR SMD 0805 150K",
     "SALA SMD"
   ],
   [
-    "1425",
+    "1423",
     "RES156",
     "RESISTOR SMD 0805 2K7",
     "SALA SMD"
   ],
   [
-    "1426",
+    "1424",
     "RES157",
     "RESISTOR SMD 0805 18K",
     "SALA SMD"
   ],
   [
-    "1427",
+    "1425",
     "RES158",
     "RESISTOR SMD 0805 33K",
     "SALA SMD"
   ],
   [
-    "1428",
+    "1426",
     "RES159",
     "RESISTOR SMD 0805 0R",
     "SALA SMD"
   ],
   [
-    "1429",
+    "1427",
     "RES160",
     "RESISTOR 2R2 2W",
     "BC-03"
   ],
   [
-    "1430",
+    "1428",
     "RES162",
     "RESISTOR 10R 2W",
     "BC-03"
   ],
   [
-    "1431",
+    "1429",
     "RES163",
     "RESISTOR 10R 3W",
     "BC-03"
   ],
   [
-    "1432",
+    "1430",
     "RES164",
     "RESISTOR SMD 0805 1K2",
     "SALA SMD"
   ],
   [
-    "1433",
+    "1431",
     "RES166",
     "RESISTOR 100R 2W",
     "BC-03"
   ],
   [
-    "1434",
+    "1432",
     "RES167",
     "RESISTOR 0,1R 1W",
     "BD-03"
   ],
   [
-    "1435",
+    "1433",
     "RES168",
     "RESISTOR 10K 1W",
     "BD-03"
   ],
   [
-    "1436",
+    "1434",
     "RES169",
     "RESISTOR SMD 0805 330R",
     "SALA SMD"
   ],
   [
-    "1437",
+    "1435",
     "RES170",
     "RESISTOR SMD 0805 120K",
     "SALA SMD"
   ],
   [
-    "1438",
+    "1436",
     "RES171",
     "RESISTOR SMD 0805 22K",
     "SALA SMD"
   ],
   [
-    "1439",
+    "1437",
     "RES172",
     "RESISTOR SMD 0805 82R 5%",
     "SALA SMD"
   ],
   [
-    "1440",
+    "1438",
     "RES173",
     "RESISTOR SMD 0805 51R 5%",
     "SALA SMD"
   ],
   [
-    "1441",
+    "1439",
     "RES174",
     "RESISTOR SMD 0805 12K4 1/8W 1%",
     "SALA SMD"
   ],
   [
-    "1442",
+    "1440",
     "RESTO DE PONTEIRAS",
     "RESTO DE PONTEIRAS",
     "G.03"
   ],
   [
-    "1443",
+    "1441",
     "RLE001",
     "RELE A1RC2 12VCC (10A)",
     "OBSOL - A6"
   ],
   [
-    "1444",
+    "1442",
     "RLE002",
     "RELE 12V 30A N/A (6 PINOS)",
     "BF-03"
   ],
   [
-    "1445",
+    "1443",
     "RLE003",
     "RELE 12V 15A",
     "BF-03"
   ],
   [
-    "1446",
+    "1444",
     "RLE008",
     "RELE HJR-3FF-S-Z 06VDC 10 A",
     "BF-02"
   ],
   [
-    "1447",
+    "1445",
     "RP203-001",
     "PLACA CONTROLADORA RGB RP203",
     "G.05"
   ],
   [
-    "1448",
+    "1446",
     "RP207-001",
     "PLACA CONTROLADORA MONO RP207 2A",
     "G.14"
   ],
   [
-    "1449",
+    "1447",
     "RP208-001",
     "TECLADO RP208 COM 2 TECLAS",
     "G.09"
   ],
   [
-    "1450",
+    "1448",
     "RP208-002",
     "TECLADO RP208 COM 3 TECLAS",
     "G.09"
   ],
   [
-    "1451",
+    "1449",
     "RP208-003",
     "TECLADO RP208 COM 6 TECLAS",
     "G.09"
   ],
   [
-    "1452",
+    "1450",
     "RU100-001",
     "LAMPADA UVC 7W - LEDLIGHT RU100",
     "I.24 - VENDAS"
   ],
   [
-    "1453",
+    "1451",
     "STR001",
     "SCR 40TTS12",
     "OBSOL - A2"
   ],
   [
-    "1454",
+    "1452",
     "STR004",
     "SCR BT-151 500V 12A",
     "OBSOL - A2"
   ],
   [
-    "1455",
+    "1453",
     "STR006",
     "DIAC DB3O",
     "OBSOL - A1"
   ],
   [
-    "1456",
+    "1454",
     "STR007",
     "TRANSISTOR TRIAC BTA 12600",
     "BB-02"
   ],
   [
-    "1457",
+    "1455",
     "STR008",
     "TRIAC BTA24600 TO220",
     "BB-02"
   ],
   [
-    "1458",
+    "1456",
     "TFB001",
     "TRAFO REF. 002 127/220 12+12 V 1,8VA PCI91-4",
     "DE-04"
   ],
   [
-    "1459",
+    "1457",
     "TFB002",
     "TRAFO REF. 047 120/220 10+10 V 11VA ABR-CAB COD 63-9",
     "DF-04"
   ],
   [
-    "1460",
+    "1458",
     "TFB003",
     "TRAFO REF. 008 127/220 10+10 V 11VA ABRAC/TER 342-5",
     "I.29 - VENDAS"
   ],
   [
-    "1461",
+    "1459",
     "TFB007",
     "TRAFO REF. 050 127/220 12-9VAC 23 VA",
     "I.29 - VENDAS"
   ],
   [
-    "1462",
+    "1460",
     "TFB010",
     "TRAFO REF. 013 127/220 10+10 V E 20 V 190VAC",
     "I.29 - VENDAS"
   ],
   [
-    "1463",
+    "1461",
     "TFB011",
     "TRAFO REF. 024 127/220 9 VOLTS 5VA ABR-CAB",
     "DE-04"
   ],
   [
-    "1464",
+    "1462",
     "TFB017",
     "TRAFO REF. 018 127/220 10+10 VAC GO 14VA",
     "DE-04"
   ],
   [
-    "1465",
+    "1463",
     "TFB019",
     "TRAFO REF. 02762 NEE 20/10/5 91#30//15#21 HOR",
     "DE-04"
   ],
   [
-    "1466",
+    "1464",
     "TFB020",
     "INDUTOR 0410 1/2W 1UH",
     "DF-04"
   ],
   [
-    "1467",
+    "1465",
     "TFB021",
     "INDUTOR SMD 1UH 250MA (0805)",
     "DF-04"
   ],
   [
-    "1468",
+    "1466",
     "TRS001",
     "TRANSISTOR BC807 SMD (SOT23)",
     "SALA SMD"
   ],
   [
-    "1469",
+    "1467",
     "TRS002",
     "TRANSISTOR BC848 SMD (SOT23)",
     "SALA SMD"
   ],
   [
-    "1470",
+    "1468",
     "TRS003",
     "TRANSISTOR BC548",
     "BB-02"
   ],
   [
-    "1471",
+    "1469",
     "TRS004",
     "TRANSISTOR BC327",
     "BB-02"
   ],
   [
-    "1472",
+    "1470",
     "TRS005",
     "TRANSISTOR IRF540N",
     "BB-02"
   ],
   [
-    "1473",
+    "1471",
     "TRS007",
     "TRANSISTOR BC857 SMD (SOT23)",
     "OBSOL - A6"
   ],
   [
-    "1474",
+    "1472",
     "TRS008",
     "TRANSISTOR 2N5551C",
     "BB-02"
   ],
   [
-    "1475",
+    "1473",
     "TRS009",
     "TRANSISTOR IRFZ48N MOSFET",
     "OBSOL - A6"
   ],
   [
-    "1476",
+    "1474",
     "TRS010",
     "TRANSISTOR TIP42",
     "BB-02"
   ],
   [
-    "1477",
+    "1475",
     "TRS011",
     "TRANSISTOR BC337",
     "BB-02"
   ],
   [
-    "1478",
+    "1476",
     "TRS012",
     "TRANSISTOR MJE2955T",
     "OBSOL - A6"
   ],
   [
-    "1479",
+    "1477",
     "TRS014",
     "TRANSISITOR BD140",
     "BB-02"
   ],
   [
-    "1480",
+    "1478",
     "TRS016",
     "TRANSISTOR KSP42 (TO92)",
     "OBSOL - A6"
   ],
   [
-    "1481",
+    "1479",
     "TRS017",
     "TRANSISTOR BCP53 PNP SMD SOT223",
     "SALA SMD"
   ],
   [
-    "1482",
+    "1480",
     "TRS018",
     "TRANSISTOR IPP60R600",
     "BB-02"
   ],
   [
-    "1483",
+    "1481",
     "TRS019",
     "TRANSISTOR MMBTA42 SMD (SOT23)",
     "SALA SMD"
   ],
   [
-    "1484",
+    "1482",
     "TRS020",
     "FOTOTRANSISTOR RECEPTOR 5MM",
     "DG-05"
   ],
   [
-    "1485",
+    "1483",
     "TRS021",
     "TRANSISTOR TIP41C TO-220",
     "BB-02"
   ],
   [
-    "1486",
+    "1484",
     "TRS022",
     "TRANSISTOR BC546",
     "OBSOL - A6"
   ],
   [
-    "1487",
+    "1485",
     "TRS023",
     "TRANSISTOR 2N5551C",
     "BB-02"
   ],
   [
-    "1488",
+    "1486",
     "TRS024",
     "TRANSISTOR BCP56TIG NPN SMD SOT223",
     "SALA SMD"
   ],
   [
-    "1489",
+    "1487",
     "VAR003",
     "VARISTOR 150V 7 MM - S150K07",
     "OBSOL - A5"
   ],
   [
-    "1490",
+    "1488",
     "VAR004",
     "VARISTOR 130V 14MM",
     "BB-02"
   ],
   [
-    "1491",
+    "1489",
     "VAR005",
     "VARISTOR 275VAC 10MM",
     "BB-02"
   ],
   [
-    "1492",
+    "1490",
     "FWCLT-039-E",
     "CHICOTE PARA PONTEIRA CXP101 VELOCIDADE",
     "G.18"
   ],
   [
-    "1493",
+    "1491",
     "FWCLT-039-D",
     "CHICOTE PARA PONTEIRA CXP102 VELOCIDADE",
     "G.18"
   ],
   [
-    "1494",
+    "1492",
     "KIT PONTEIRAS",
     "KIT PONTEIRAS (ÚLTIMA COMPRA)",
     "G.23"
   ],
   [
-    "1495",
+    "1493",
     "FWCLF-H01-003",
     "CHICOTE INVERSOR HERCULES HD300 LINHA FITNESS SEM FONTE",
     "H.08"
   ],
   [
-    "1496",
+    "1494",
     "FWT166-3F-001",
     "TECLADO FW166 3 TECLAS 12X12X8,5 CONEC. 8 VIAS ALOJAMENTO",
     "I.16"
   ],
   [
-    "1497",
+    "1495",
     "FWU500-HRS-001",
     "PLACA FW500 HAND GRIP RS232 CONECTOR 90 GRAUS",
     "H.12"
   ],
   [
-    "1498",
+    "1496",
     "FWT156-14F-001",
     "TECLADO FW156 14 TECLAS 12X12X8,5 CONEC. MOLEX 9 VIAS E CONC. PENCI 4 VIAS - CHICOTE 35 CM",
     "I.03"
   ],
   [
-    "1499",
+    "1497",
     "FWI151-001",
     "PLACA FW151 ADAPTADOR GERADOR 6V",
     "G.24"
   ],
   [
-    "1500",
+    "1498",
     "FREIOS DESMONTADOS",
     "SOBRAS DE FREIOS",
     "G.29"
   ],
   [
-    "1501",
+    "1499",
     "INV001",
     "INVERSOR DE FREQUENCIA E CONTROLE DE ELEVACAO SERIAL RS232 VR232-INV",
     "T.03"
   ],
   [
-    "1502",
+    "1500",
     "FWFRMAG-77",
     "FREIO MAGNETICO 77 MM 24VDC 12W 4NM",
     "ENGENHARIA"
   ],
   [
-    "1503",
+    "1501",
     "FWDVCP-018",
     "CHAPA PLÁSTICA - MEC 091",
     "I.23"
   ],
   [
-    "1504",
+    "1502",
     "FWCO346-HAZ-001",
     "CONSOLE FW346 HAND GRIP AZUL GABINETE PLASTICO MAGNETICO",
     "G.27"
   ],
   [
-    "1505",
+    "1503",
     "FWCO342-HAZ-002",
     "CONSOLE FW342 HAND GRIP PRETO GABINETE PLASTICO MAGNETICO",
     "G.19 / G.24 / G.18"
   ],
   [
-    "1506",
+    "1504",
     "ENG005",
     "TECLADO CONSOLE FWCO402",
     "T.02"
   ],
   [
-    "1507",
+    "1505",
     "FWCO402-HLN-001",
     "CONSOLE FW402 HAND GRIP DISPLAY COLORIDO 24 POLEGADAS GABINETE PLASTICO CONECTOR SERIE 2508",
     "T.02 / T.03"
   ],
   [
-    "1508",
+    "1506",
     "FNT027",
     "FONTE ALIMENTACAO BIVOLT 12V 5A 60W POSITIVO INTERNO",
     "T.03"
   ],
   [
-    "1509",
+    "1507",
     "ENG010",
     "CHICOTE PARA CONSOLE LINEX FWCO402",
     "T.02"
