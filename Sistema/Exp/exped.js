@@ -250,13 +250,13 @@ const todosOsDados = [
     "9028",
     "16/01/2026",
     "CORP LIGHT",
-    "",
+    "16/01/2026",
     "MRI",
     "5927",
     "RODONAVES",
     "0",
-    "Ag. Coleta",
-    "",
+    "retirado",
+    "Janeiro",
     "NÃO"
   ],
   [
@@ -273,15 +273,15 @@ const todosOsDados = [
     "NÃO"
   ],
   [
-    "Ag. NF",
+    "9029",
     "16/01/2026",
     "TECHNO FITNESS",
     "",
     "MRI",
     "5949",
-    "-",
+    "RICIERI",
     "0",
-    "Falta NF",
+    "Ag. Coleta",
     "",
     "NÃO"
   ]
