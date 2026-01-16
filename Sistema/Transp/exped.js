@@ -223,7 +223,7 @@ const todosOsDados = [
     "22",
     "Livia Maria",
     "E-MAIL",
-    "atendimento@transgueperdo.com.br",
+    "atendimento@transguepardo.com.br",
     "-",
     "",
     "",
